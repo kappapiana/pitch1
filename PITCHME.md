@@ -26,4 +26,6 @@ Test this new slide how it pans out!
 
 ---?image=assets/things2.jpg
 
-# Have an impact!
+<span style="color:green;">
+# Have an impact! 
+</span>
