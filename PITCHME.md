@@ -23,3 +23,5 @@ Test this new slide how it pans out!
 ---
 
 # Third  slide
+
+---?image=assets/things.jpg
