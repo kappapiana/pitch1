@@ -25,3 +25,5 @@ Test this new slide how it pans out!
 # Third  slide
 
 ---?image=assets/things2.jpg
+
+# Have an impact!
