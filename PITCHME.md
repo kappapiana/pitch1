@@ -11,6 +11,8 @@ This is the first ever pitch I have made.
 - Ubercool that's it |
 - Nuovo |
 
+Tutto quello che volevate vedere, ma non avete mai avuto!
+
 +++
 
 # Second Slide
@@ -20,4 +22,4 @@ Test this new slide how it pans out!
 
 ---
 
-# Third  slide 
+# Third  slide
