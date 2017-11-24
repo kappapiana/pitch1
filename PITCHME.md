@@ -27,3 +27,5 @@ Test this new slide how it pans out!
 ---?image=assets/things2.jpg
 
 ## <span style="color:green; font-weight:bold"> Have an impact! </span>
+
+---?image=assets/software.jp
