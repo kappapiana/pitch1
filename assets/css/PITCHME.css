@@ -8,3 +8,7 @@
 
 body {
 color: #258 !important;}
+
+.reveal section p {
+  color: blue;
+}
