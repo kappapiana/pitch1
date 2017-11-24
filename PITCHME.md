@@ -39,6 +39,7 @@ Test this new slide how it pans out!
 @title[Go Fullscreen]
 
 <div class="title" >
+Certo che se non metto contenuto!
 
 </div>
 
