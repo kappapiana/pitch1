@@ -38,6 +38,9 @@ Test this new slide how it pans out!
 ---
 @title[Go Fullscreen]
 
+<div style="position: static; background-color: yellow">
+
 # yeah!
+</div>
 
 Cheers!
