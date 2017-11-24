@@ -28,4 +28,4 @@ Test this new slide how it pans out!
 
 ## <span style="color:green; font-weight:bold"> Have an impact! </span>
 
----?image=assets/software.jp
+---?image=assets/software.jpg
