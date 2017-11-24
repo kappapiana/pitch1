@@ -39,7 +39,7 @@ Test this new slide how it pans out!
 @title[Go Fullscreen]
 
 <div style="position: fixed; top: 10px; right: 10px;">
-<h1> yeah! col cazzo! ma viene a proposito a </h1>
+<h1> yeah! col cazzo! ma viene a proposito a seca </h1>
 </div>
 
 Cheers!
