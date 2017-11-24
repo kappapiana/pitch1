@@ -20,8 +20,12 @@ div.title {position: fixed;
         left: 15%;
         max-width: 1500px;"}
 
-#gp_logo {width: 12%;}
+#gp_logo {}
 
+#gp-logo {
+    background-color: aquamarine;
+    width: 12%;
+}
 div#gp_logo img {width: 100%;}
 
 /* estocazzo no? */
