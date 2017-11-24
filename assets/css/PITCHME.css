@@ -9,6 +9,6 @@
 body {
 color: #258 !important;}
 
-.reveal section p, .reveal section li   {
+.reveal section p .reveal section li   {
   color: blue;
 }
