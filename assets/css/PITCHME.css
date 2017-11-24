@@ -17,8 +17,11 @@
 
 div.title {position: fixed;
         top: 10px;
-        left: 300px;
+        left: 15%;
         max-width: 1500px;"}
 
+div#gp_logo {width: 12%;}
 
-/* estocazzo no? */	
+div#gp_logo + img {width: 100%;}
+
+/* estocazzo no? */
