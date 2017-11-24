@@ -36,6 +36,7 @@ Test this new slide how it pans out!
 - Ma per niente per niente! |
 
 ---
+@title[Go Fullscreen]
 
 ## Oh, and this is another slide
 
