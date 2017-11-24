@@ -40,9 +40,12 @@ Test this new slide how it pans out!
 
 <div class="title" >
 <h3>
-Accerto. Certo che se non metto contenuto! Cornuto cornutazzo
+Accerto. Certo che se non metto contenuto!
 
 <h3>
 </div>
 
 Cheers!
+
+
+Ma non possiamo trascendere
