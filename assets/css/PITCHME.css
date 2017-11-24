@@ -6,7 +6,7 @@
     margin-right: 0;
     }
 
-.reveal section H2
+section.present H2
 {
    text-shadow: 2px 2px #ff0000;
 }
