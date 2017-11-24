@@ -38,8 +38,8 @@ Test this new slide how it pans out!
 ---
 @title[Go Fullscreen]
 
-<div style="position: fixed; top: 10px; right: 10px; max-width: 500px;" >
-<h3> yeah! col cazzo! ma viene a proposito a Laguna  </h3>
+<div class="title" >
+
 </div>
 
 Cheers!
