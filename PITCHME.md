@@ -38,9 +38,9 @@ Test this new slide how it pans out!
 ---
 @title[Go Fullscreen]
 
-<div style="position: static; top: 10%; right: 10%; background-color: yellow">
+<div style="position: static; top: 10%; right: 10%; background-color: yellow;">
 
-# yeah!
+# yeah! col cazzo!
 </div>
 
 Cheers!
