@@ -38,5 +38,6 @@ Test this new slide how it pans out!
 ---
 @title[Go Fullscreen]
 
+#yeah!
 
 Cheers!
