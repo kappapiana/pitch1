@@ -38,7 +38,7 @@ Test this new slide how it pans out!
 ---
 @title[Go Fullscreen]
 
-<div style="position: fixed; top: 10; right: 10;">
+<div style="position: absolute; top: 10; right: 10;">
 # yeah! col cazzo! ma viene
 </div>
 
