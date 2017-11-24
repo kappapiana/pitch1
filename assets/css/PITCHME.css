@@ -4,12 +4,12 @@
 .reveal .slides section>* {
     margin-left: 0;
     margin-right: 0;
-    color: red;
+    }
+
+.reveal section p {
+  color: blue;
 }
 
-body {
-color: #258 !important;}
-
-.reveal section p .reveal section fragment   {
+.reveal section li   {
   color: blue;
 }
