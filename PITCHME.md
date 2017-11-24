@@ -39,8 +39,8 @@ Test this new slide how it pans out!
 @title[Go Fullscreen]
 
 <div class="title" >
-Certo che se non metto contenuto! Cornuto cornutazzo
 
+Accerto. Certo che se non metto contenuto! Cornuto cornutazzo
 </div>
 
 Cheers!
