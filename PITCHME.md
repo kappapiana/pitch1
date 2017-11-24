@@ -38,8 +38,8 @@ Test this new slide how it pans out!
 ---
 @title[Go Fullscreen]
 
-<div style="position: absolute; top: 10; right: 10;">
-# yeah! col cazzo! ma viene a proposito
+<div style="position: fixed; top: 10px; right: 10px;">
+# yeah! col cazzo! ma viene a proposito a
 </div>
 
 Cheers!
