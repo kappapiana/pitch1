@@ -6,7 +6,8 @@
     margin-right: 0;
     }
 
-.reveal section p
-.reveal section ul  {
+.reveal section H1
+.reveal section H2
+{
    text-shadow: 2px 2px #ff0000;
 }
