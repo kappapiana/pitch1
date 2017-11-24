@@ -29,3 +29,7 @@ Test this new slide how it pans out!
 ## <span style="color:green; font-weight:bold"> Have an impact! </span>
 
 ---?image=assets/software.jpg
+
+- Questo
+- Non è |
+- un mostro |
