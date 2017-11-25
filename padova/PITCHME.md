@@ -4,7 +4,7 @@
 
 Carlo Piana  
 <span class="fa-red">**Array**</span> studio legale  
-https://array.eu 
+https://array.eu
 
 ---
 
@@ -260,6 +260,12 @@ Le licenze open source possono essere raggruppate per l'intensità del copyleft:
 - Long tail - poche veramente rilevanti
 - Incompatibilità (rinvio)
 
+
+---?image=assets/questions.jpg
+<div class="dom">
+<h1>Domande?</h1>
+</div>
+
 ---
 
 # Compliance
@@ -349,7 +355,7 @@ Community can screw up pretty bad
 
 ---
 
-# Interazioni licenze @fa[arrow-right] modelli di business
+# Interazioni licenze @fa[arrow-down] modelli di business
 
 +++
 
