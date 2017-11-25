@@ -16,4 +16,4 @@ PITCHME.md:
 PITCHME.yaml:
 :  contain the YAML statements
 
-  [ae060ce0]: https://gitpitch.com/ "githpitch"
+  [ae060ce0]: https://gitpitch.com/ "gitpitch"
