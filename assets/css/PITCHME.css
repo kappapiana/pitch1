@@ -43,16 +43,11 @@ div.dom {position: fixed; top: 10%;}
 /*To keep elements more on the lower part*/
 div.bas {position: fixed; bottom: 15%;}
 
+
 strong
       {
-        color: #cc0000;
+        color: #dd0000;
       }
-
-
-      strong
-            {
-              color: #dd0000;
-            }
 
 
   .reveal h1 {
@@ -73,4 +68,4 @@ strong
 div.title {position: fixed;
         top: 10px;
         right: 10%;
-        max-width: 60%;"}
+        max-width: 60%;}
