@@ -1,4 +1,4 @@
-<div style="border: 0px">
+<div class="borderless">
 ![Logo](assets/logo_array.png)
 </div>
 
@@ -416,7 +416,6 @@ Community can screw up pretty bad
 - Molto usato in appliance
 - Comunque distribuzione @fa[arrow-right] compliance inbound/outbound
 
-+++
 
 ## SaaS/PaaS
 
