@@ -42,14 +42,14 @@ div.bas {position: fixed; bottom: 15%;}
 
 strong
       {
-        color: red;
+        color: #cc0000;
       }
 
 
 .reveal h1 {
  text-shadow: 2px 2px 4px #66ccff;
  color: red;
- 
+
 }
 
 .reveal h2,
