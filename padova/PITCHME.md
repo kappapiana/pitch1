@@ -461,8 +461,8 @@ Le immagini sono tutte in pubblico dominio / CC-0 tranne l'immagine della fotoco
 Presentazione realizzata con [Gitpitch](https://gitpitch.com/) e [Reveal.js][81aa3153]
 </div>
 
-  [81aa3153]: https://revealjs.com/ "Reveal"
-
 <div class="borderless">
-  ![Logo](assets/logo_array.png)
+![Logo](assets/logo_array.png)
 </div>
+
+  [81aa3153]: https://revealjs.com/ "Reveal"
