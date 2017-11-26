@@ -305,7 +305,7 @@ Le licenze open source possono essere raggruppate per l'intensità del copyleft:
 ## Controlli contrattuali
 
 - Garanzia che tutto il codice è **originale**
-- Garanzia che tutto il codice non originale è stato **correttamente licenziato** (lista?)
+- Garanzia che tutto il codice non originale sia stato **correttamente licenziato** (lista?)
   - Licenze pubbliche
   - Licenze private
 - Garanzia che tutto il codice è stato acquisito da soggetti "**certificati**"
