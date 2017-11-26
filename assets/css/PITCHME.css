@@ -14,6 +14,11 @@ That need be changed*/
 
 .fa-green {color: darkgreen;}
 
+.borderless {position: relative; left: 70%; clear:both; margin-bottom: -50px;}
+
+.borderless img {border: 0px !important; background: none !important; posit }
+
+
 
 /* keep classes on top (bug?) */
 /*yes, it must be bug! */
