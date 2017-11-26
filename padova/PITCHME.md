@@ -413,6 +413,7 @@ Community can screw up pretty bad
 - Comunque distribuzione @fa[arrow-right] compliance inbound/outbound
 
 +++
+![logo](assets/logo.png)
 
 ## SaaS/PaaS
 
@@ -455,7 +456,7 @@ Licenza Creative Commons by-SA 4.0 unported.
 
 Le immagini sono tutte in pubblico dominio / CC-0 tranne l'immagine della fotocopiatrice Xerox
 
-Presentazione realizzata con [Gitpitch](https://gitpitch.com/) e [Reveal.js][81aa3153] 
+Presentazione realizzata con [Gitpitch](https://gitpitch.com/) e [Reveal.js][81aa3153]
 </div>
 
   [81aa3153]: https://revealjs.com/ "Reveal"
