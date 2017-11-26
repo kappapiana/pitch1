@@ -47,9 +47,8 @@ strong
 
 
 .reveal h1 {
- text-shadow: 2px 2px 4px #66ccff;
- color: red;
-
+ text-shadow: 2px 2px 4px beige;
+ color: #cc0000;
 }
 
 .reveal h2,
