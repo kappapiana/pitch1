@@ -462,3 +462,7 @@ Presentazione realizzata con [Gitpitch](https://gitpitch.com/) e [Reveal.js][81a
 </div>
 
   [81aa3153]: https://revealjs.com/ "Reveal"
+
+<div class="borderless">
+  ![Logo](assets/logo_array.png)
+</div>
