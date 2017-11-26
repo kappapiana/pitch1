@@ -18,7 +18,10 @@ That need be changed*/
 
 .borderless {position: relative; left: 70%; clear:both; top: -100px; margin-top: -40px;}
 
-.borderless img {border: 0px !important; background: none !important; }
+.borderless img {border: 0px !important;
+    background: none !important;
+    box-shadow: none !important;
+    }
 
 /*end logo*/
 
