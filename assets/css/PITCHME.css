@@ -49,19 +49,25 @@ strong
       }
 
 
-.reveal h1 {
- text-shadow: 2px 2px 4px beige;
- color: #cc0000;
-}
+      strong
+            {
+              color: #dd0000;
+            }
+
+
+  .reveal h1 {
+       text-shadow: 2px 2px 4px beige;
+       color: #dd0000;
+      }
 
   .reveal h2,
   .reveal h3,
   .reveal h4,
   .reveal h5,
   .reveal h6  {
-  text-shadow: 2px 2px 2px #bbb;
-  color: #cc0000;
-}
+        text-shadow: 2px 2px 2px #666;
+        color: #dd0000;
+      }
 
 
 div.title {position: fixed;
