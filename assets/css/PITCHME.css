@@ -14,9 +14,10 @@ That need be changed*/
 
 .fa-green {color: darkgreen;}
 
-.borderless {position: relative; left: 70%; clear:both; margin-bottom: -50px;}
+/*This is for logo*/
+.borderless {position: relative; left: 70%; top: -20px; clear:both; margin-bottom: -50px;}
 
-.borderless img {border: 0px !important; background: none !important; posit }
+.borderless img {border: 0px !important; background: none !important; }
 
 
 

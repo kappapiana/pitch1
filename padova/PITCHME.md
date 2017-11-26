@@ -1,6 +1,3 @@
-<div class="borderless">
-![Logo](assets/logo_array.png)
-</div>
 
 # Software libero e open source
 
@@ -10,6 +7,9 @@ Carlo Piana
 <span class="fa-red">**Array**</span> studio legale  
 https://array.eu
 
+<div class="borderless">
+![Logo](assets/logo_array.png)
+</div>
 ---
 
 ## aree coperte
