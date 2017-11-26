@@ -1,3 +1,7 @@
+<div style="border: 0px">
+![Logo](assets/logo_array.png)
+</div>
+
 # Software libero e open source
 
 ### un'introduzione
@@ -413,7 +417,6 @@ Community can screw up pretty bad
 - Comunque distribuzione @fa[arrow-right] compliance inbound/outbound
 
 +++
-![logo](assets/logo_array.png)
 
 ## SaaS/PaaS
 
