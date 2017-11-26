@@ -413,7 +413,7 @@ Community can screw up pretty bad
 - Comunque distribuzione @fa[arrow-right] compliance inbound/outbound
 
 +++
-![logo](assets/logo.png)
+![logo](assets/logo_array.png)
 
 ## SaaS/PaaS
 
