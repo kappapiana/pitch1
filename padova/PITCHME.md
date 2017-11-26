@@ -165,7 +165,7 @@ A printer...
 
 ## Copyleft
 
-- Uso del copyright
+- Uso del copyright per mantenere uno stato di libertà/apertura
 - Condizioni di licenza
   - Ti do il permesso **se...**
 - Le condizioni sono usate per mantenere il codice libero (open, aperto)
