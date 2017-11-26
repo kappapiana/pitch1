@@ -51,12 +51,13 @@ strong
  color: #cc0000;
 }
 
-.reveal h2,
-.reveal h3,
-.reveal h4,
-.reveal h5,
-.reveal h6  {
-text-shadow: 2px 2px 2px #bbb;
+  .reveal h2,
+  .reveal h3,
+  .reveal h4,
+  .reveal h5,
+  .reveal h6  {
+  text-shadow: 2px 2px 2px #bbb;
+  color: #cc0000;
 }
 
 
