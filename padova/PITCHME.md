@@ -170,7 +170,7 @@ A printer...
   - Ti do il permesso **se...**
 - Le condizioni sono usate per mantenere il codice libero (open, aperto)
 - Per l'opera originale e per ogni **opera derivata**
-- Sia legalmente che tecnicamente (tramite condizioni) @fa[arrow-right]
+- Sia legalmente che tecnicamente (tramite condizioni) @fa[arrow-down]
 
 +++
 
