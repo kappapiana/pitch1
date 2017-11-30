@@ -1,4 +1,8 @@
  # Hello, World!
+ 
+ ## Just a small example of what we can do here
+
+Actual slides are in subfolders.
 
 ---
 
@@ -24,11 +28,11 @@ Test this new slide how it pans out!
 
 # Third  slide
 
----?image=assets/things2.jpg
+---?image=assets/bg1.jpg
 
 ## <span style="color:green; font-weight:bold"> Have an impact! </span>
 
----?image=assets/software.jpg
+---?image=assets/bg1.jpg
 
 - Questo
 - Non è |
@@ -40,7 +44,7 @@ Test this new slide how it pans out!
 
 <div class="title" >
 <h3>
-Accerto. Certo che se non metto contenuto!
+Some content here.
 
 <h3>
 </div>
