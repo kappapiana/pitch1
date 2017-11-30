@@ -28,11 +28,11 @@ Test this new slide how it pans out!
 
 # Third  slide
 
----?image=assets/bg1.jpg
+---?image=assets/bg1.png
 
 ## <span style="color:green; font-weight:bold"> Have an impact! </span>
 
----?image=assets/bg1.jpg
+---?image=assets/bg1.png
 
 - Questo
 - Non è |
