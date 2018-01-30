@@ -49,7 +49,6 @@ https://array.eu
   - In Italia |
     - Legge sul Diritto d'Autore (**LDA**)
     - Art. 64bis-quater LDA, Art. 171 bis LDA
-    - e se invece no?
 
 
 ---
