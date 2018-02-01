@@ -71,4 +71,6 @@ div.title {position: fixed;
         right: 10%;
         max-width: 80%;}
 
-.long {font-size: 0.7em;}
+div.long {font-size: 0.7em;}
+
+span.long {font-size: 0.7em;}
