@@ -232,7 +232,7 @@ Quando non è necessario il consenso? Quando il trattamento:
 
 </div>
 
-<img src="assets/red-cross-md.png" class="center" />
+<span class="fragment"><img src="assets/red-cross-md.png" class="center" /></span> 
 
 +++
 
