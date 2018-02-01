@@ -178,14 +178,12 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 ## Privacy: consenso
 
-Deve essere libero, specifico, informato e inequivocabile
-no tacito o presunto (solo dichiarazione o azione positiva)
-no caselle pre-spuntate sul modulo
-
-Per i dati personali “semplici”, deve essere documentato per iscritto dimostrabile dal titolare
-
-Per i dati sensibili, deve essere in forma scritta esplicito
-La richiesta di consenso deve essere chiaramente distinguibile (ad es. nella modulistica), in forma comprensibile, semplice e chiara
+- Deve essere libero, specifico, informato e inequivocabile
+  - no tacito o presunto (solo dichiarazione o azione positiva)
+  - no caselle pre-spuntate sul modulo
+- Per i dati personali “semplici”, deve essere documentato per iscritto dimostrabile dal titolare
+- Per i dati sensibili, deve essere in forma scritta esplicito
+- La richiesta di consenso deve essere chiaramente distinguibile (ad es. nella modulistica), in forma comprensibile, semplice e chiara
 
 +++
 
