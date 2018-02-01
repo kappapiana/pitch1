@@ -144,12 +144,12 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 <span style="font-size:0.7em;"> Deve essere preventiva ed includere (salvo informazioni già note all’interessato) </span>
 
 <ul style="font-size:0.7em;">
-- Finalità, modalità e base giuridica (consenso o altro) del trattamento,
-- la natura obbligatoria o facoltativa del conferimento dei dati (con le conseguenze di un eventuale rifiuto a conferirli) → nell’informativa successiva all’ottenimento dei dati,
-- i soggetti o le categorie di soggetti che possono venirne a conoscenza e l’ambito di diffusione,
-- i diritti dell’interessato (accesso, rettifica, cancellazione, opposizione, portabilità dei dati ecc.) → nell’informativa successiva all’ottenimento dei dati
-- gli estremi del titolare e, se designato, del responsabile, nonché del RPD-DPO,
-- se i dati sono trasferiti all’estero e attraverso quali strumenti
+<li> Finalità, modalità e base giuridica (consenso o altro) del trattamento,
+<li> la natura obbligatoria o facoltativa del conferimento dei dati (con le conseguenze di un eventuale rifiuto a conferirli) → nell’informativa successiva all’ottenimento dei dati,
+<li> i soggetti o le categorie di soggetti che possono venirne a conoscenza e l’ambito di diffusione,
+<li> i diritti dell’interessato (accesso, rettifica, cancellazione, opposizione, portabilità dei dati ecc.) → nell’informativa successiva all’ottenimento dei dati
+<li> gli estremi del titolare e, se designato, del responsabile, nonché del RPD-DPO,
+<li> se i dati sono trasferiti all’estero e attraverso quali strumenti
 </ul>
 
 +++
