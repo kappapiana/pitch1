@@ -127,11 +127,11 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
   </dt>
   <dd>
   “Responsabile” della Protezione dei Dati: ma non lo è!
+  Obbligatorietà: enti pubblici, oppure attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”
   </dd>
 
     </dl>
 
-il problema dell’obbligatorietà (enti pubblici, oppure attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”)
 
 </div>
 
