@@ -141,7 +141,6 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 
 ## Privacy: informativa
 
-<span class="long">
 
 
 Deve essere preventiva ed includere (salvo informazioni già note all’interessato)
@@ -153,7 +152,6 @@ Deve essere preventiva ed includere (salvo informazioni già note all’interess
 - gli estremi del titolare e, se designato, del responsabile, nonché del RPD-DPO,
 - se i dati sono trasferiti all’estero e attraverso quali strumenti
 
-</span>
 
 +++
 
