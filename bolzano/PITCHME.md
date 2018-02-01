@@ -216,9 +216,7 @@ Quando non è necessario il consenso? Quando il trattamento:
 
 ## Privacy: altri adempimenti
 
-**prima di iniziare il trattamento**
-
-Necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
+**prima di iniziare il trattamento** Necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
 
 <ul style="font-size:0.8em;">
 <li> Autorizzazione Generale n. 2/2016 al trattamento dei dati idonei a rivelare lo stato di salute e la vita sessuale (anche) agli esercenti le professioni sanitarie (compresi gli psicologi)
@@ -232,6 +230,7 @@ Necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (
     </ul>
 
 […]
+
 Verifica preliminare del Garante in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
 
 ---
