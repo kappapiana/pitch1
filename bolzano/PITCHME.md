@@ -98,36 +98,26 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 <div class="long">
 
 <dl>
-  <dt>
-  interessato
-  </dt>
+  <dt>  interessato   </dt>
   <dd>
   la persona fisica cui si riferiscono i dati personali
   </dd>
-  <dt>
-  titolare
-  </dt>
+  <dt>   titolare   </dt>
 
   <dd>
    il soggetto (anche non persona fisica) cui competono le decisioni in ordine alle finalità, alle modalità del trattamento di dati personali e agli strumenti utilizzati, ivi compreso il profilo della sicurezza (possibile la contitolarità, previo specifico accordo sulla responsabilità)
   </dd>
 
-  <dt>
-  responsabile
-  </dt>
+  <dt>   responsabile   </dt>
   <dd>
   il soggetto (anche non persona fisica) preposto (per iscritto) dal titolare al trattamento di dati personali; possibil sub-responsabili
   </dd>
 
-  <dt>
-  incaricato
-  </dt>
+  <dt> incaricato </dt>
   <dd>
   la persona fisica autorizzata (per iscritto?) a compiere operazioni di trattamento dal titolare o dal responsabile (non espressamente previsto ma comunque contemplato dal RGPD – art.4.10)
   </dd>
-
     </dl>
-
 
 </div>
 
@@ -213,12 +203,14 @@ Quando non è necessario il consenso? Quando il trattamento:
 
 ## Privacy: consenso (segue)
 
-- in relazione a obblighi e diritti specifici del titolare o dell’interessato in materia di lavoro e previdenza (per i dati sensibili)
-- se avviene all’interno di organizzazioni senza scopo di lucro con finalità politiche, filosofiche, religiose o sindacali (per i dati sensibili)
-- Riguarda dati resi manifestamente pubblici dall’interessato (per i dati sensibili)
-- per accertare, esercitare o difendere un diritto in sede giudiziaria o per l’esercizio della funzione giurisdizionale (per i dati sensibili)
-- “per finalità di medicina preventiva o di medicina del lavoro, valutazione della capacità lavorativa del dipendente, diagnosi, assistenza o terapia sanitaria o sociale ovvero gestione dei sistemi e servizi sanitari o sociali” (per i dati sensibili)
-- A condizione che i dati siano trattati da professionisti tenuti al segreto professionale (o altre persone soggette a obbligo di segretezza)
+<ul style="font-size:0.8em;">
+<li> in relazione a obblighi e diritti specifici del titolare o dell’interessato in materia di lavoro e previdenza (per i dati sensibili)
+<li> se avviene all’interno di organizzazioni senza scopo di lucro con finalità politiche, filosofiche, religiose o sindacali (per i dati sensibili)
+<li> Riguarda dati resi manifestamente pubblici dall’interessato (per i dati sensibili)
+<li> per accertare, esercitare o difendere un diritto in sede giudiziaria o per l’esercizio della funzione giurisdizionale (per i dati sensibili)
+<li> “per finalità di medicina preventiva o di medicina del lavoro, valutazione della capacità lavorativa del dipendente, diagnosi, assistenza o terapia sanitaria o sociale ovvero gestione dei sistemi e servizi sanitari o sociali” (per i dati sensibili)
+<li> A condizione che i dati siano trattati da professionisti tenuti al segreto professionale (o altre persone soggette a obbligo di segretezza)
+</ul>
 
 ---
 
