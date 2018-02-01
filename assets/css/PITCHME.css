@@ -32,6 +32,7 @@ That need be changed*/
 }
 
 .reveal .slides section>* {
+  max-width: 80%;
     margin-left: 5%;
     margin-right: 1%;
     text-align: left;
@@ -64,7 +65,8 @@ strong
         color: #dd0000;
       }
 
+
 div.title {position: fixed;
-        top: 100px;
+        top: 10px;
         right: 10%;
         max-width: 80%;}
