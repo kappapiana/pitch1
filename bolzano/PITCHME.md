@@ -232,7 +232,7 @@ Quando non è necessario il consenso? Quando il trattamento:
 
 </div>
 
-<img src="assets/logo_array.png">
+<img src="assets/logo_array.png" class="center" />
 
 +++
 
