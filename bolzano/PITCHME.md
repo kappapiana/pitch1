@@ -1,5 +1,5 @@
 
-# Privacy alla luce del nuovo regolamento
+## Privacy alla luce del nuovo regolamento
 
 ### un'introduzione
 
@@ -13,7 +13,7 @@ https://array.eu
 
 ---
 
-La normativa sulla privacy:
+La normativa sulla privacy: 
 
 - Direttiva 95/46/CE
 - Legge 675/1996
@@ -127,7 +127,7 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
   “Responsabile” della Protezione dei Dati: ma non lo è!
   </dd>
 
-  </dl>
+    </dl>
 
 il problema dell’obbligatorietà (enti pubblici, oppure attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”)
 
