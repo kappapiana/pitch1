@@ -91,7 +91,7 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 
 ## Privacy: i soggetti
 
-<div class=long>
+<div class="long">
 
 <dl>
   <dt>
@@ -143,7 +143,6 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 ## Privacy: informativa
 
 <div class="long">
-
 Deve essere preventiva ed includere (salvo informazioni già note all’interessato)
 
 - Finalità, modalità e base giuridica (consenso o altro, vd. infra) del trattamento,
