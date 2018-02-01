@@ -30,15 +30,13 @@ That need be changed*/
 
 .reveal .slides {
   font-size: 0.9em;
+  margin-left: -7%;
+  margin-right: 3%;
 }
 
 .reveal .slides section>* {
-    margin-left: -7%;
-    margin-right: 3%;
-    text-align: left;
-    width: 1200px;
-
-    }
+        text-align: left;
+        }
 
 /*To keep elements more on top page*/
 div.dom {position: fixed; top: 10%;}
