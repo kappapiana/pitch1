@@ -223,7 +223,7 @@ Necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (
 <ul style="font-size:0.8em;">
 <li> Autorizzazione Generale n. 2/2016 al trattamento dei dati idonei a rivelare lo stato di salute e la vita sessuale (anche) agli esercenti le professioni sanitarie (compresi gli psicologi)
 <li> Notificazione del trattamento al Garante:
-<ul style="font-size:0.8em;">
+<ul >
     <li> dati genetici, biometrici o di geolocalizzazione
     <li> dati idonei a rivelare lo stato di salute e la vita sessuale, trattati a fini di […] prestazione di servizi sanitari per via telematica relativi a banche di dati o alla fornitura di beni, […], rilevazione di malattie mentali, infettive e diffusive, sieropositività, […]
     <li> Dati sensibili per finalità di selezione del personale per conto terzi […]
