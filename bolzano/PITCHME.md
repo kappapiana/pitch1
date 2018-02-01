@@ -71,12 +71,11 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
   <dt>“dato personale”</dt>
   <dd>qualunque informazione relativa a persona fisica identificata o identificabile (ad es. tramite riferimento ad altre informazioni)</dd>
 
-
   <dt>
   “dati sensibili”
   </dt>
   <dd>
-  : i dati personali idonei a rivelare l'origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l'adesione a partiti, sindacati, associazioni od organizzazioni a carattere religioso, filosofico, politico o sindacale, nonché i dati personali idonei a rivelare lo stato di salute e la vita sessuale e i dati genetici e biometrici (art.9 e C10 del RGPD)
+ i dati personali idonei a rivelare l'origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l'adesione a partiti, sindacati, associazioni od organizzazioni a carattere religioso, filosofico, politico o sindacale, nonché i dati personali idonei a rivelare lo stato di salute e la vita sessuale e i dati genetici e biometrici (art.9 e C10 del RGPD)
   </dd>
 
   <dt>
@@ -84,7 +83,7 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
   </dt>
 
   <dd>
-  : relativi a indagini, procedimenti e condanne penali
+ relativi a indagini, procedimenti e condanne penali
   </dd>
 
 </dl>
