@@ -65,6 +65,8 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 
 ## Privacy: i tipi di dati
 
+
+<div class="long">
 <dl>
   <dt>“dato personale”</dt>
   <dd>qualunque informazione relativa a persona fisica identificata o identificabile (ad es. tramite riferimento ad altre informazioni)</dd>
@@ -86,6 +88,9 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
   </dd>
 
 </dl>
+
+
+</div>
 
 ---
 
@@ -189,11 +194,9 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 ## Privacy: consenso (segue)
 
-### le altre basi giuridiche del trattamento
-
 Quando non è necessario il consenso? Quando il trattamento:
-<ul style="font-size:0.8em;">
 
+<ul style="font-size:0.8em;">
 <li> È necessario per l’esecuzione di un contratto o di una richiesta precontrattuale dell’interessato o per adempiere ad un obbligo legale (non vale per i dati sensibili)
 <li> È necessario per perseguire un legittimo interesse del titolare o di terzi nei casi previamente individuati dal Garante sotto la responsabilità del titolare (accountability) – (non vale per i dati sensibili)
 <li> È necessario per la salvaguardia degli interessi vitali dell’interessato o di un terzo
@@ -203,7 +206,7 @@ Quando non è necessario il consenso? Quando il trattamento:
     <li> Riguarda dati relativi allo svolgimento di attività economiche (non vale per i dati sensibili)
     <li> Riguarda aderenti o simpatizzanti di associazioni e organismi senza scopo di lucro (no dati sensibili)
     <li> Riguarda i dati contenuti nei curricula
-    <li> Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amminstrativo-contabili
+    <li> Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amministrativo-contabili
     </ul>
 </ul>
 
