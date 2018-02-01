@@ -122,18 +122,22 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
   la persona fisica autorizzata (per iscritto?) a compiere operazioni di trattamento dal titolare o dal responsabile (non espressamente previsto ma comunque contemplato dal RGPD – art.4.10)
   </dd>
 
-  <dt>
-  DPO-RPD = Data Protection Officer
-  </dt>
-  <dd>
-  “Responsabile” della Protezione dei Dati: ma non lo è!
-  Obbligatorietà: enti pubblici, oppure attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”
-  </dd>
-
     </dl>
 
 
 </div>
+
++++
+
+## I soggetti (segue)
+### DPO-RPD = Data Protection Officer
+
+  “Responsabile” della Protezione dei Dati: ma non lo è!
+  Obbligatorietà:
+  - enti pubblici;
+  - attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”
+
+---
 
 
 ## Privacy: informativa
