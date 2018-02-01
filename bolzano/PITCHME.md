@@ -144,12 +144,12 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 <span style="font-size:0.8em;"> Deve essere preventiva ed includere (salvo informazioni già note all’interessato) </span>
 
 <ul style="font-size:0.8em;">
-<li> Finalità, modalità e base giuridica (consenso o altro) del trattamento,
-<li> la natura obbligatoria o facoltativa del conferimento dei dati (con le conseguenze di un eventuale rifiuto a conferirli) → nell’informativa successiva all’ottenimento dei dati,
-<li> i soggetti o le categorie di soggetti che possono venirne a conoscenza e l’ambito di diffusione,
-<li> i diritti dell’interessato (accesso, rettifica, cancellazione, opposizione, portabilità dei dati ecc.) → nell’informativa successiva all’ottenimento dei dati
-<li> gli estremi del titolare e, se designato, del responsabile, nonché del RPD-DPO,
-<li> se i dati sono trasferiti all’estero e attraverso quali strumenti
+<li> Finalità, modalità e base giuridica (consenso o altro) del trattamento;
+<li> la natura obbligatoria o facoltativa del conferimento dei dati (con le conseguenze di un eventuale rifiuto a conferirli) → nell’informativa successiva all’ottenimento dei dati;
+<li> i soggetti o le categorie di soggetti che possono venirne a conoscenza e l’ambito di diffusione;
+<li> i diritti dell’interessato (accesso, rettifica, cancellazione, opposizione, portabilità dei dati ecc.) → nell’informativa successiva all’ottenimento dei dati;
+<li> gli estremi del titolare e, se designato, del responsabile, nonché del RPD-DPO;
+<li> se i dati sono trasferiti all’estero e attraverso quali strumenti;
 </ul>
 
 +++
@@ -165,11 +165,12 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
   </dd>
 </dl>
 
-- Periodo di conservazione dei dati
-- Diritto di presentare un reclamo all’autorità di controllo
-- Eventuale trattamento mediante processi decisionali automatizzati (es. profilazione), indicando logica e conseguenze
-- Se i dati non sono raccolti presso l’interessato, l’informativa deve essere fornita entro un termine ragionevole (max 1 mese) oppure al momento della comunicazione o della registrazione dei dati  e deve indicare la fonte dei dati
-
+<ul style="font-size:0.8em;">
+ Periodo di conservazione dei dati
+<li> Diritto di presentare un reclamo all’autorità di controllo
+<li> Eventuale trattamento mediante processi decisionali automatizzati (es. profilazione), indicando logica e conseguenze
+<li> Se i dati non sono raccolti presso l’interessato, l’informativa deve essere fornita entro un termine ragionevole (max 1 mese) oppure al momento della comunicazione o della registrazione dei dati  e deve indicare la fonte dei dati
+</ul>
 +++
 
 ## Privacy: informativa (segue)
