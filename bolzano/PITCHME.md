@@ -161,11 +161,12 @@ Informativa successiva:
 una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precedente slide (e salvo informazioni già note all’interessato):
 
 <ul style="font-size:0.8em;">
- Periodo di conservazione dei dati
+<li> Periodo di conservazione dei dati
 <li> Diritto di presentare un reclamo all’autorità di controllo
 <li> Eventuale trattamento mediante processi decisionali automatizzati (es. profilazione), indicando logica e conseguenze
 <li> Se i dati non sono raccolti presso l’interessato, l’informativa deve essere fornita entro un termine ragionevole (max 1 mese) oppure al momento della comunicazione o della registrazione dei dati  e deve indicare la fonte dei dati
 </ul>
+
 +++
 
 ## Privacy: informativa (segue)
