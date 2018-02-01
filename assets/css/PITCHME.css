@@ -46,6 +46,14 @@ div.long {font-size: 0.8em;}
         text-align: left;
         }
 
+.center img  {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -(X/2)px;
+    margin-top: -(Y/2)px;
+}
+
 /*To keep elements more on top page*/
 /* div.dom {position: fixed; top: 10%;} */
 
