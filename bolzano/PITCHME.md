@@ -176,16 +176,23 @@ Necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (
     - Dati sensibili per finalità di selezione del personale per conto terzi […]
 […]
 Verifica preliminare del Garante in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
-Privacy: obblighi di sicurezza
-Misure di sicurezza
-informatiche ed organizzative
-per ridurre al minimo i rischi di:
-Distruzione o perdita
-Accesso non autorizzato
-Trattamento non consentito o non conforme alle finalità
-Per preservare l’integrità e la disponibilità dei dati e il loro trattamento secondo le finalità e le modalità stabilite
 
- Privacy: obblighi di sicurezza
+---
+
+## Privacy: obblighi di sicurezza
+
+Misure di sicurezza
+- informatiche ed organizzative
+- per ridurre al minimo i rischi di:
+  - Distruzione o perdita
+  - Accesso non autorizzato
+  - Trattamento non consentito o non conforme alle finalità
+- preservare l’integrità e la disponibilità dei dati e il loro trattamento secondo le finalità e le modalità stabilite
+
++++
+
+## Privacy: obblighi di sicurezza
+
 Sono previste delle misure minime di sicurezza per tutti i titolari (art.33-35 e all.B, D.lgs.196/2003), e delle misure aggiuntive per gli esercenti professioni sanitarie (art.22.6-7, All.B artt.20-24 e 28-29)
 Autenticazione informatica, con procedure di gestione delle credenziali, password cambiate ogni sei mesi (tre mesi per i dati sensibili e giudiziari)
 Profili di autorizzazione degli incaricati, con aggiornamento periodico del trattamento consentito ai singoli incaricati e agli addetti ICT
@@ -197,10 +204,14 @@ Conservazione separata e trattamento disgiunto dei dati sensibili → cifratura 
 obblighi in materia di supporti rimovibili;
 Disaster recovery entro 7gg.
 Accesso controllato agli archivi cartacei, controllo e custodia di atti e documenti da parte degli incaricati
-Privacy: obblighi di sicurezza
+
++++
+
+# Privacy: obblighi di sicurezza
+
 “Data protection by design and by default” (a monte)
 Se rischi specifici
-privacy impact assesment
+privacy impact assessment
 consultazione preventiva (opzionale) del Garante
 Dovere di notificare al Garante (e di comunicare all’interessato) le violazioni subite
 salvo improbabilità di un rischio per i diritti e le libertà delle persone
