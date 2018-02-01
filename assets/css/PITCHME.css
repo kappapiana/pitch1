@@ -33,7 +33,7 @@ That need be changed*/
 }
 
 .reveal .slides section>* {
-    margin-left: -100px;
+    margin-left: -5%;
     margin-right: 2%;
     text-align: left;
     width: 1200px;
