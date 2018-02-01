@@ -141,7 +141,7 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 
 ## Privacy: informativa
 
-<span stylye="font-size:0.7em;> Deve essere preventiva ed includere (salvo informazioni già note all’interessato)
+<span style="font-size:0.7em;"> Deve essere preventiva ed includere (salvo informazioni già note all’interessato)
 
 - Finalità, modalità e base giuridica (consenso o altro) del trattamento,
 - la natura obbligatoria o facoltativa del conferimento dei dati (con le conseguenze di un eventuale rifiuto a conferirli) → nell’informativa successiva all’ottenimento dei dati,
