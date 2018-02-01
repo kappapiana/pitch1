@@ -138,11 +138,10 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
   - attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”
 
 ---
-
+<div class="long">
 
 ## Privacy: informativa
 
-<div class="long">
 
 Deve essere preventiva ed includere (salvo informazioni già note all’interessato)
 
