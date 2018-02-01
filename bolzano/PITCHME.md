@@ -69,7 +69,7 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 <div class="long">
 <dl>
   <dt>“dato personale”</dt>
-  <dd>qualunque informazione relativa a persona fisica identificata o identificabile (ad es. tramite riferimento ad altre informazioni)</dd>
+  <dd>qualunque informazione relativa a persona fisica identificata o _identificabile_ (ad es. tramite riferimento ad altre informazioni)</dd>
 
   <dt>
   “dati sensibili”
