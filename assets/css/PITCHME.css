@@ -14,6 +14,14 @@ That need be changed*/
 
 .fa-green {color: darkgreen;}
 
+
+div.title {position: fixed;
+        top: 10px;
+        right: 10%;
+        max-width: 80%;}
+
+div.long {font-size: 0.8em;}
+
 /*This is for logo*/
 
 .borderless {position: relative; left: 70%; clear:both; top: -100px; margin-top: -40px;}
@@ -64,11 +72,3 @@ strong
         text-shadow: 2px 2px 2px #666;
         color: #dd0000;
       }
-
-
-div.title {position: fixed;
-        top: 10px;
-        right: 10%;
-        max-width: 80%;}
-
-div.long {font-size: 0.8em;}
