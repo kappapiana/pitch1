@@ -228,10 +228,13 @@ Quando non è necessario il consenso? Quando il trattamento:
 
     </ul>
     </ul>
-
 […]
 
-Verifica preliminare del Garante in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
++++
+ 
+## Verifica preliminare del Garante
+
+in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
 
 ---
 
