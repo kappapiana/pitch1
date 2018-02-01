@@ -30,8 +30,8 @@ That need be changed*/
 
 .reveal .slides {
   font-size: 0.9em;
-  margin-left: -2%;
-  margin-right: 3%;
+  /* margin-left: -2%; */
+  /* margin-right: 3%; */
 }
 
 .reveal .slides section>* {
@@ -39,10 +39,10 @@ That need be changed*/
         }
 
 /*To keep elements more on top page*/
-div.dom {position: fixed; top: 10%;}
+/* div.dom {position: fixed; top: 10%;} */
 
 /*To keep elements more on the lower part*/
-div.bas {position: fixed; bottom: 15%;}
+/* div.bas {position: fixed; bottom: 15%;} */
 
 
 strong
