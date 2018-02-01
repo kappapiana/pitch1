@@ -1,5 +1,5 @@
 
-# Software libero e open source
+# Privacy alla luce del nuovo regolamento
 
 ### un'introduzione
 
@@ -10,14 +10,17 @@ https://array.eu
 <div class="borderless">
 ![Logo](assets/logo_array.png)
 </div>
+
 ---
-La normativa sulla privacy
-Direttiva 95/46/CE
- Legge 675/1996
-\+ altre normative introdotte nel corso del tempo
-D.lgs. 196/2003
-Regolamento generale sulla protezione dei dati (RGPD)    →  Reg. UE 2016/679
-Si applicherà dal 25 maggio 2018
+
+La normativa sulla privacy:
+
+- Direttiva 95/46/CE
+- Legge 675/1996
+- \+ altre normative introdotte nel corso del tempo
+- D.lgs. 196/2003
+- Regolamento generale sulla protezione dei dati (RGPD)    →  Reg. UE 2016/679  
+(Si applicherà dal 25 maggio 2018)
 
 ---
 
@@ -26,9 +29,12 @@ Si applicherà dal 25 maggio 2018
 Sanzioni civili: 2050 cc (“attività pericolosa”, bisogna aver “adottato tutte le misure idonee a evitare il danno”)
 
 Sanzioni amministrative, ad esempio:
+
 - Omessa o incompleta informativa: da 6.000 a 36.000 euro (aumentabili fino al triplo)
 - Omessa adozione delle misure minime di sicurezza: da 10.000 a 120.000 euro
+
 Sanzioni penali (reclusione, nelle ipotesi più gravi sino a tre anni - con possibilità di estinzione del reato in via amministrativa)
+
 Controlli: anche tramite la GdF (ispezioni in sede)
 
 ---
@@ -59,32 +65,69 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 
 ## Privacy: i tipi di dati
 
-“dato personale”
-: qualunque informazione relativa a persona fisica identificata o identificabile (ad es. tramite riferimento ad altre informazioni)
+<dl>
+  <dt>“dato personale”</dt>
+  <dd>qualunque informazione relativa a persona fisica identificata o identificabile (ad es. tramite riferimento ad altre informazioni)</dd>
 
-“dati sensibili”
-: i dati personali idonei a rivelare l'origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l'adesione a partiti, sindacati, associazioni od organizzazioni a carattere religioso, filosofico, politico o sindacale, nonché i dati personali idonei a rivelare lo stato di salute e la vita sessuale e i dati genetici e biometrici (art.9 e C10 del RGPD)
 
-“dati giudiziari”
-: relativi a indagini, procedimenti e condanne penali
+  <dt>
+  “dati sensibili”
+  </dt>
+  <dd>
+  : i dati personali idonei a rivelare l'origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l'adesione a partiti, sindacati, associazioni od organizzazioni a carattere religioso, filosofico, politico o sindacale, nonché i dati personali idonei a rivelare lo stato di salute e la vita sessuale e i dati genetici e biometrici (art.9 e C10 del RGPD)
+  </dd>
+
+  <dt>
+  “dati giudiziari”
+  </dt>
+
+  <dd>
+  : relativi a indagini, procedimenti e condanne penali
+  </dd>
+
+</dl>
+
 
 ## Privacy: i soggetti
 
 
-interessato
-: la persona fisica cui si riferiscono i dati personali
+<dl>
+  <dt>
+  interessato
+  </dt>
+  <dd>
+  la persona fisica cui si riferiscono i dati personali
+  </dd>
+  <dt>
+  titolare
+  </dt>
 
-titolare
-: il soggetto (anche non persona fisica) cui competono le decisioni in ordine alle finalità, alle modalità del trattamento di dati personali e agli strumenti utilizzati, ivi compreso il profilo della sicurezza (possibile la contitolarità, previo specifico accordo sulla responsabilità)
+  <dd>
+   il soggetto (anche non persona fisica) cui competono le decisioni in ordine alle finalità, alle modalità del trattamento di dati personali e agli strumenti utilizzati, ivi compreso il profilo della sicurezza (possibile la contitolarità, previo specifico accordo sulla responsabilità)
+  </dd>
 
-responsabile
-: il soggetto (anche non persona fisica) preposto (per iscritto) dal titolare al trattamento di dati personali; possibile la nomina di sub-responsabili
+  <dt>
+  responsabile
+  </dt>
+  <dd>
+  il soggetto (anche non persona fisica) preposto (per iscritto) dal titolare al trattamento di dati personali; possibile la nomina di sub-responsabili
+  </dd>
 
-incaricato
-: la persona fisica autorizzata (per iscritto?) a compiere operazioni di trattamento dal titolare o dal responsabile (non espressamente previsto ma comunque contemplato dal RGPD – art.4.10)
+  <dt>
+  incaricato
+  </dt>
+  <dd>
+  la persona fisica autorizzata (per iscritto?) a compiere operazioni di trattamento dal titolare o dal responsabile (non espressamente previsto ma comunque contemplato dal RGPD – art.4.10)
+  </dd>
 
-DPO-RPD = Data Protection Officer
-: “Responsabile” della Protezione dei Dati: ma non lo è!
+  <dt>
+  DPO-RPD = Data Protection Officer
+  </dt>
+  <dd>
+  “Responsabile” della Protezione dei Dati: ma non lo è!
+  </dd>
+
+  </dl>
 
 il problema dell’obbligatorietà (enti pubblici, oppure attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”)
 
@@ -103,8 +146,14 @@ Deve essere preventiva ed includere (salvo informazioni già note all’interess
 
 ## Privacy: informativa (segue)
 
-informativa successiva
-: (una volta ottenuti i dati) deve includere, oltre a quanto indicato nella precedente slide (e salvo informazioni già note all’interessato):
+<dl>
+  <dt>
+  informativa successiva
+  </dt>
+  <dd>
+  (una volta ottenuti i dati) deve includere, oltre a quanto indicato nella precedente slide (e salvo informazioni già note all’interessato):
+  </dd>
+</dl>
 
 - Periodo di conservazione dei dati
 - Diritto di presentare un reclamo all’autorità di controllo
@@ -207,7 +256,7 @@ Accesso controllato agli archivi cartacei, controllo e custodia di atti e docume
 
 +++
 
-# Privacy: obblighi di sicurezza
+## Privacy: obblighi di sicurezza
 
 “Data protection by design and by default” (a monte)
 Se rischi specifici
