@@ -116,7 +116,7 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
   responsabile
   </dt>
   <dd>
-  il soggetto (anche non persona fisica) preposto (per iscritto) dal titolare al trattamento di dati personali; possibile la nomina di sub-responsabili
+  il soggetto (anche non persona fisica) preposto (per iscritto) dal titolare al trattamento di dati personali; possibil sub-responsabili
   </dd>
 
   <dt>
