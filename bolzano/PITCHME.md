@@ -156,14 +156,9 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 
 ## Privacy: informativa (segue)
 
-<dl>
-  <dt>
-  informativa successiva
-  </dt>
-  <dd>
-  (una volta ottenuti i dati) deve includere, oltre a quanto indicato nella precedente slide (e salvo informazioni già note all’interessato):
-  </dd>
-</dl>
+Informativa successiva:
+
+una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precedente slide (e salvo informazioni già note all’interessato):
 
 <ul style="font-size:0.8em;">
  Periodo di conservazione dei dati
