@@ -13,13 +13,13 @@ https://array.eu
 
 ---
 
-La normativa sulla privacy: 
+## La normativa sulla privacy:
 
 - Direttiva 95/46/CE
 - Legge 675/1996
 - \+ altre normative introdotte nel corso del tempo
 - D.lgs. 196/2003
-- Regolamento generale sulla protezione dei dati (RGPD)    →  Reg. UE 2016/679  
+- Regolamento generale sulla protezione dei dati (RGPD o **GDPR**)    →  Reg. UE 2016/679  
 (Si applicherà dal 25 maggio 2018)
 
 ---
