@@ -192,16 +192,20 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 ### le altre basi giuridiche del trattamento
 
 Quando non è necessario il consenso? Quando il trattamento:
+<ul style="font-size:0.8em;">
 
-- È necessario per l’esecuzione di un contratto o di una richiesta precontrattuale dell’interessato o per adempiere ad un obbligo legale (non vale per i dati sensibili)
-- È necessario per perseguire un legittimo interesse del titolare o di terzi nei casi previamente individuati dal Garante sotto la responsabilità del titolare (accountability) – (non vale per i dati sensibili)
-- È necessario per la salvaguardia degli interessi vitali dell’interessato o di un terzo
-- È necessario per perseguire (specifici, nel caso dei dati sensibili) interessi pubblici (ad es. ricerca)
-    - Oppure: riguarda dati provenienti da pubblici registri, elenchi, atti o documenti  (non vale per i dati sensibili)
-    - Riguarda dati relativi allo svolgimento di attività economiche (non vale per i dati sensibili)
-    - Riguarda aderenti o simpatizzanti di associazioni e organismi senza scopo di lucro (no dati sensibili)
-    - Riguarda i dati contenuti nei curricula
-    - Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amminstrativo-contabili
+<li> È necessario per l’esecuzione di un contratto o di una richiesta precontrattuale dell’interessato o per adempiere ad un obbligo legale (non vale per i dati sensibili)
+<li> È necessario per perseguire un legittimo interesse del titolare o di terzi nei casi previamente individuati dal Garante sotto la responsabilità del titolare (accountability) – (non vale per i dati sensibili)
+<li> È necessario per la salvaguardia degli interessi vitali dell’interessato o di un terzo
+<li> È necessario per perseguire (specifici, nel caso dei dati sensibili) interessi pubblici (ad es. ricerca)
+<ul style="font-size:0.8em;">
+    <li> Oppure: riguarda dati provenienti da pubblici registri, elenchi, atti o documenti  (non vale per i dati sensibili)
+    <li> Riguarda dati relativi allo svolgimento di attività economiche (non vale per i dati sensibili)
+    <li> Riguarda aderenti o simpatizzanti di associazioni e organismi senza scopo di lucro (no dati sensibili)
+    <li> Riguarda i dati contenuti nei curricula
+    <li> Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amminstrativo-contabili
+    </ul>
+</ul>
 
 +++
 
