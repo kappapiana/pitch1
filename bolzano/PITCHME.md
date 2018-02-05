@@ -154,14 +154,15 @@ Obblighi di sicurezza vs. distruzione, perdita, accesso non autorizzato, trattam
 <span style="font-size:0.8em;"> Deve essere preventiva ed includere (salvo informazioni già note all’interessato) </span>
 
 <ul style="font-size:0.8em;">
-<li> Finalità, modalità e base giuridica (consenso o altro) del trattamento;
-<li> la natura obbligatoria o facoltativa del conferimento dei dati (con le conseguenze di un eventuale rifiuto a conferirli) → nell’informativa successiva all’ottenimento dei dati;
+<li> Finalità, modalità **e base giuridica **(consenso o altro) del trattamento;
+<li> la natura obbligatoria o facoltativa del conferimento dei dati (con le conseguenze di un eventuale rifiuto a conferirli) **→ nell’informativa successiva all’ottenimento dei dati;**
 <li> i soggetti o le categorie di soggetti che possono venirne a conoscenza e l’ambito di diffusione;
-<li> i diritti dell’interessato (accesso, rettifica, cancellazione, opposizione, portabilità dei dati ecc.) → nell’informativa successiva all’ottenimento dei dati;
-<li> gli estremi del titolare e, se designato, del responsabile, nonché del RPD-DPO;
-<li> se i dati sono trasferiti all’estero e attraverso quali strumenti;
+<li> i diritti dell’interessato (accesso, rettifica, cancellazione, opposizione, **portabilità dei dati** ecc.) **→ nell’informativa successiva all’ottenimento dei dati**;
+<li> gli estremi del titolare e, se designato, del responsabile, **nonché del RPD-DPO**;
+<li> **se i dati sono trasferiti all’estero e attraverso quali strumenti;**
 </ul>
 
+<!-- FIXME fin qui --> 
 +++
 
 ### Privacy: informativa (segue)
