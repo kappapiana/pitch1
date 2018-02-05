@@ -40,9 +40,9 @@ https://array.eu
 
 ## Privacy: nuove sanzioni
 
-**Fino a 10-20 milioni di euro**
+Fino a **10-20 milioni** di euro
 
-**Fino al 2% (4%) del fatturato**
+Fino al **2%** (4%) del **fatturato**
 
 ---
 
