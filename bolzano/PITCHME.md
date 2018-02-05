@@ -33,7 +33,7 @@ https://array.eu
 - ~~Omessa adozione delle misure minime di sicurezza: da 10.000 a 120.000 euro~~
 
 
-Sanzioni penali reclusione, nelle ipotesi più gravi sino a tre anni  con possibilità di estinzione del reato in via amministrativa
+~~Sanzioni penali reclusione, nelle ipotesi più gravi sino a tre anni  con possibilità di estinzione del reato in via amministrativa~~
 
 Controlli: anche tramite la GdF (ispezioni in sede)
 
