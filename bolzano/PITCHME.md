@@ -296,17 +296,19 @@ Misure di sicurezza
 
 ## Privacy: obblighi di sicurezza
 
+<div class="long">
 “Data protection by design and by default” (a monte)
-- Se rischi specifici
-- privacy impact assessment
-- consultazione preventiva (opzionale) del Garante
-- Dovere di notificare al Garante (e di comunicare all’interessato) le violazioni subite salvo improbabilità di un rischio per i diritti e le libertà delle persone
-- DPS (era già stato abrogato nel 2012)
-- Registro delle attività di trattamento (molto di più di un DPS → accountability)
-- il problema dell’obbligatorietà → più di 250 dipendenti, oppure rischio per i diritti e le libertà dell’interessato E (trattamento non occasionale OPPURE tratt. di dati sensibili o giudiziari)
-- Nomina del DPO-RPD (vd. più sopra)
-- Opzionali: codici di condotta e certificazioni
-
+<ul style="font-size:0.9em;">
+<li> Se rischi specifici
+<li> privacy impact assessment
+<li> consultazione preventiva (opzionale) del Garante
+<li> Dovere di notificare al Garante (e di comunicare all’interessato) le violazioni subite salvo improbabilità di un rischio per i diritti e le libertà delle persone
+<li> DPS (era già stato abrogato nel 2012)
+<li> Registro delle attività di trattamento (molto di più di un DPS → accountability)
+<li> il problema dell’obbligatorietà → più di 250 dipendenti, oppure rischio per i diritti e le libertà dell’interessato E (trattamento non occasionale OPPURE tratt. di dati sensibili o giudiziari)
+<li> Nomina del DPO-RPD (vd. più sopra)
+<li> Opzionali: codici di condotta e certificazioni
+</ul>
 
 
 ---?image=assets/questions.jpg
