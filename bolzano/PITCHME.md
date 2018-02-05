@@ -213,7 +213,6 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 ---
 <!-- .slide: data-transition="none" -->
-
 ## Privacy: altri adempimenti
 
 <div class="long">
@@ -234,7 +233,6 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 +++
 <!-- .slide: data-transition="none" -->
-
 ## Privacy: altri adempimenti
 
 <div class="long">
