@@ -14,6 +14,7 @@ https://array.eu
 ## legenda:
 
 ~~Testo Cancellato~~: Non più attuale (superato dal GDPR)
+
 **Testo in Grassetto**: Novità introdotta dal GDPR
 
 ---
