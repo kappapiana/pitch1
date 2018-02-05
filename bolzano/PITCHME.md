@@ -133,7 +133,7 @@ Obblighi di sicurezza vs. distruzione, perdita, accesso non autorizzato, trattam
 ## I soggetti (segue)
 
 <dl>
-  <dt>Data Protection Officer</dt>
+  <dt>**Data Protection Officer**</dt>
   <dd>
   “Responsabile” della Protezione dei Dati: ma non lo è!
   Obbligatorietà:
