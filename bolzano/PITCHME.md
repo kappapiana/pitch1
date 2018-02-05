@@ -17,13 +17,13 @@ https://array.eu
 - ~~Direttiva 95/46/CE~~
 - ~~Legge 675/1996~~
 - ~~\+ altre normative introdotte nel corso del tempo~~
-- D.lgs. 196/2003~~
+- D.lgs. 196/2003
 - Regolamento generale sulla protezione dei dati (RGPD o **GDPR**)    →  Reg. UE 2016/679  
 (Si applicherà dal **25 maggio 2018**)
 
 ---
 
-## Privacy: sanzioni e controlli
+## Privacy: sanzioni
 
 ~~Sanzioni civili: 2050 cc (“attività pericolosa”, bisogna aver “adottato tutte le misure idonee a evitare il danno”)~~
 
@@ -35,7 +35,13 @@ https://array.eu
 
 ~~Sanzioni penali reclusione, nelle ipotesi più gravi sino a tre anni  con possibilità di estinzione del reato in via amministrativa~~
 
-Controlli: anche tramite la GdF (ispezioni in sede)
+
++++
+
+# Privacy: nuove sanzioni
+
+**Fino a 10-20 milioni di euro
+Fino al 2% (4%) del fatturato**
 
 ---
 
