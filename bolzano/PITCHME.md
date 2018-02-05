@@ -276,7 +276,7 @@ Misure di sicurezza
 ## Privacy: obblighi di sicurezza
 
 <div class="long">
-<ul style="font-size:0.9em;">
+<ul style="font-size:0.8em;">
 <li> Sono previste delle misure minime di sicurezza per tutti i titolari (art.33-35 e all.B, D.lgs.196/2003), e delle misure aggiuntive per gli esercenti professioni sanitarie (art. 22.6-7, All.B artt. 20-24 e 28-29)</li>
 <li> Autenticazione informatica, con procedure di gestione delle credenziali, password cambiate ogni sei mesi (tre mesi per i dati sensibili e giudiziari)</li>
 <li> Profili di autorizzazione degli incaricati, con aggiornamento periodico del trattamento consentito ai singoli incaricati e agli addetti ICT</li>
