@@ -232,6 +232,8 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 </div>
 
 +++
+<!-- .slide: data-transition="none" -->
+
 ## Privacy: altri adempimenti
 
 <div class="long">
