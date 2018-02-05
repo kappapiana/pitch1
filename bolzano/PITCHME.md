@@ -48,25 +48,25 @@ Fino al **2%** (4%) del **fatturato**
 
 ## Privacy: principi fondamentali
 
-Liceità, correttezza e _trasparenza_
+Liceità, correttezza e **trasparenza**
 
-Trattamento solo per scopi determinati, espliciti e legittimi   = limitazione della finalità
+Trattamento solo per scopi determinati, espliciti e legittimi  **= limitazione della finalità**
 
-Principio di necessità = minimizzazione dei dati
+Principio di necessità **= minimizzazione dei dati**
 
-conservati solo per il tempo strettamente necessario                    = limitazione della conservazione
+conservati solo per il tempo strettamente necessario **= limitazione della conservazione**
 
-Dati esatti e aggiornati = esattezza
+Dati esatti e aggiornati **= esattezza**
 
 +++
 
 ## Privacy: principi fondamentali (segue)
 
-Obblighi di sicurezza vs. distruzione, perdita, accesso non autorizzato, trattamento illecito o non conforme alle finalità = integrità e riservatezza
+Obblighi di sicurezza vs. distruzione, perdita, accesso non autorizzato, trattamento illecito o non conforme alle finalità **= integrità e riservatezza**
 
-intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizzare / verificare preventivamente determinati tipi di trattamenti
+~~intervento _ex ante_ dell’autorità di controllo (Garante Privacy) per autorizzare / verificare preventivamente determinati tipi di trattamenti~~
 
-≠ accountability
+**≠ accountability**
 
 ---
 
