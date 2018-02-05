@@ -283,7 +283,7 @@ Misure di sicurezza
 <li> Sistemi di backup (almeno settimanale) e disaster recovery
 <li> Procedure per custodia e accesso selezionato agli archivi cartacei
 <li> Trattamenti effettuati da esercenti professioni sanitarie:
-  <ul style="font-size:0.9em;">
+  <ul style="font-size:0.8em;">
     <li> Conservazione separata e trattamento disgiunto dei dati sensibili → cifratura o codici identificativi
     <li> obblighi in materia di supporti rimovibili;
     <li> Disaster recovery entro 7gg.
