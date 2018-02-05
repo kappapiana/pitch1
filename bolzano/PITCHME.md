@@ -231,7 +231,7 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 </div>
 
- <img src="assets/red-cross-md.png" class="center" /> |
+<img src="assets/red-cross-md.png" class="center" /> 
 
 +++
 
