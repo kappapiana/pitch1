@@ -11,6 +11,10 @@ https://array.eu
 </div>
 
 ---
+## legenda:
+
+~~Testo Cancellato~~: Non più attuale (superato dal GDPR)
+**Testo in Grassetto**: Novità introdotta dal GDPR
 
 ## La normativa sulla privacy:
 
@@ -162,7 +166,7 @@ Obblighi di sicurezza vs. distruzione, perdita, accesso non autorizzato, trattam
 <li> **se i dati sono trasferiti all’estero e attraverso quali strumenti;**
 </ul>
 
-<!-- FIXME fin qui --> 
+<!-- FIXME fin qui -->
 +++
 
 ### Privacy: informativa (segue)
