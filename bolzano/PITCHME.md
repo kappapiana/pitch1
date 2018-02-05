@@ -134,7 +134,7 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 
 ## Privacy: informativa
 
-<span style="font-size:0.9em;"> Deve essere preventiva ed includere (salvo informazioni già note all’interessato) </span>
+<span style="font-size:0.8em;"> Deve essere preventiva ed includere (salvo informazioni già note all’interessato) </span>
 
 <ul style="font-size:0.9em;">
 <li> Finalità, modalità e base giuridica (consenso o altro) del trattamento;
