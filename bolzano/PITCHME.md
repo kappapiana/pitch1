@@ -231,7 +231,28 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 </div>
 
-<img src="assets/red-cross-md.png" class="center" /> 
+<img src="assets/red-cross-md.png" class="center" />
+
++++
+## Privacy: altri adempimenti
+
+<div class="long">
+**prima di iniziare il trattamento**: necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
+
+<ul style="font-size:0.9em;">
+<li> Autorizzazione Generale n. 2/2016 al trattamento dei dati idonei a rivelare lo stato di salute e la vita sessuale (anche) agli esercenti le professioni sanitarie (compresi gli psicologi) </li>
+<li> Notificazione del trattamento al Garante: </li>
+
+<ul>
+    <li> dati genetici, biometrici o di geolocalizzazione</li>
+    <li> dati idonei a rivelare lo stato di salute e la vita sessuale, trattati a fini di […] prestazione di servizi sanitari per via telematica relativi a banche di dati o alla fornitura di beni, […], rilevazione di malattie mentali, infettive e diffusive, sieropositività, […] </li>
+    <li> Dati sensibili per finalità di selezione del personale per conto terzi […]</li>
+</ul>
+</ul>
+
+</div>
+
+<img src="assets/red-cross-md.png" class="center" />
 
 +++
 
