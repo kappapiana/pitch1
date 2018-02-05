@@ -16,6 +16,8 @@ https://array.eu
 ~~Testo Cancellato~~: Non più attuale (superato dal GDPR)
 **Testo in Grassetto**: Novità introdotta dal GDPR
 
+---
+
 ## La normativa sulla privacy:
 
 - ~~Direttiva 95/46/CE~~
