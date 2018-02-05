@@ -276,18 +276,18 @@ Misure di sicurezza
 ## Privacy: obblighi di sicurezza
 
 <ul style="font-size:0.9em;">
-<li> Sono previste delle misure minime di sicurezza per tutti i titolari (art.33-35 e all.B, D.lgs.196/2003), e delle misure aggiuntive per gli esercenti professioni sanitarie (art.22.6-7, All.B artt.20-24 e 28-29)
-<li> Autenticazione informatica, con procedure di gestione delle credenziali, password cambiate ogni sei mesi (tre mesi per i dati sensibili e giudiziari)
-<li> Profili di autorizzazione degli incaricati, con aggiornamento periodico del trattamento consentito ai singoli incaricati e agli addetti ICT
-<li> Protezione degli strumenti elettronici (firewall e antivirus), e aggiornamento dei sistemi
-<li> Sistemi di backup (almeno settimanale) e disaster recovery
-<li> Procedure per custodia e accesso selezionato agli archivi cartacei
-<li> Trattamenti effettuati da esercenti professioni sanitarie:
+<li> Sono previste delle misure minime di sicurezza per tutti i titolari (art.33-35 e all.B, D.lgs.196/2003), e delle misure aggiuntive per gli esercenti professioni sanitarie (art.22.6-7, All.B artt.20-24 e 28-29)</li>
+<li> Autenticazione informatica, con procedure di gestione delle credenziali, password cambiate ogni sei mesi (tre mesi per i dati sensibili e giudiziari)</li>
+<li> Profili di autorizzazione degli incaricati, con aggiornamento periodico del trattamento consentito ai singoli incaricati e agli addetti ICT</li>
+<li> Protezione degli strumenti elettronici (firewall e antivirus), e aggiornamento dei sistemi</li>
+<li> Sistemi di backup (almeno settimanale) e disaster recovery</li>
+<li> Procedure per custodia e accesso selezionato agli archivi cartacei</li>
+<li> Trattamenti effettuati da esercenti professioni sanitarie:</li>
   <ul style="font-size:0.8em;">
-    <li> Conservazione separata e trattamento disgiunto dei dati sensibili → cifratura o codici identificativi
-    <li> obblighi in materia di supporti rimovibili;
-    <li> Disaster recovery entro 7gg.
-    <li> Accesso controllato agli archivi cartacei, controllo e custodia di atti e documenti da parte degli incaricati  
+    <li> Conservazione separata e trattamento disgiunto dei dati sensibili → cifratura o codici identificativi</li>
+    <li> obblighi in materia di supporti rimovibili;</li>
+    <li> Disaster recovery entro 7gg.</li>
+    <li> Accesso controllato agli archivi cartacei, controllo e custodia di atti e documenti da parte degli incaricati  </li>
   </ul>
 </ul>
 
