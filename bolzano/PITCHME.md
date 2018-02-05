@@ -182,7 +182,7 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 ## Privacy: consenso (segue)
 
-Quando non è necessario il consenso? Quando il trattamento:
+<span style="font-size:0.8em;"> Quando non è necessario il consenso? Quando il trattamento:</span>
 
 <ul style="font-size:0.7em;">
 <li> È necessario per l’esecuzione di un contratto o di una richiesta precontrattuale dell’interessato o per adempiere ad un obbligo legale (non vale per i dati sensibili)
