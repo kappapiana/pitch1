@@ -112,17 +112,17 @@ Obblighi di sicurezza vs. distruzione, perdita, accesso non autorizzato, trattam
   <dt>   titolare   </dt>
 
   <dd>
-   il soggetto (anche non persona fisica) cui competono le decisioni in ordine alle finalità, alle modalità del trattamento di dati personali e agli strumenti utilizzati, ivi compreso il profilo della sicurezza (possibile la contitolarità, previo specifico accordo sulla responsabilità)
+   il soggetto (anche non persona fisica) cui competono le decisioni in ordine alle finalità, alle modalità del trattamento di dati personali e agli strumenti utilizzati, ivi compreso il profilo della sicurezza (**possibile la contitolarità, previo specifico accordo sulla responsabilità**)
   </dd>
 
   <dt>   responsabile   </dt>
   <dd>
-  il soggetto (anche non persona fisica) preposto (per iscritto) dal titolare al trattamento di dati personali; possibil sub-responsabili
+  il soggetto (anche non persona fisica) preposto (per iscritto) dal titolare al trattamento di dati personali; **possibili sub-responsabili**
   </dd>
 
   <dt> incaricato </dt>
   <dd>
-  la persona fisica autorizzata (per iscritto?) a compiere operazioni di trattamento dal titolare o dal responsabile (non espressamente previsto ma comunque contemplato dal RGPD – art.4.10)
+  la persona fisica autorizzata (per iscritto?) a compiere operazioni di trattamento dal titolare o dal responsabile **(non espressamente previsto, ma comunque contemplato dal RGPD – art.4.10)**
   </dd>
     </dl>
 
@@ -131,12 +131,20 @@ Obblighi di sicurezza vs. distruzione, perdita, accesso non autorizzato, trattam
 +++
 
 ## I soggetti (segue)
-### DPO-RPD = Data Protection Officer
 
+<dl>
+  <dt>Data Protection Officer</dt>
+  <dd>
   “Responsabile” della Protezione dei Dati: ma non lo è!
   Obbligatorietà:
-  - enti pubblici;
-  - attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”
+<li>  enti pubblici;
+<li> attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”
+  </dd>
+
+</dl>
+
+
+
 
 ---
 
