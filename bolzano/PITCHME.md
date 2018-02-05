@@ -212,6 +212,7 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 </ul>
 
 ---
+<!-- .slide: data-transition="none" -->
 
 ## Privacy: altri adempimenti
 
