@@ -14,25 +14,26 @@ https://array.eu
 
 ## La normativa sulla privacy:
 
-- Direttiva 95/46/CE
-- Legge 675/1996
-- \+ altre normative introdotte nel corso del tempo
-- D.lgs. 196/2003
+- ~~Direttiva 95/46/CE~~
+- ~~Legge 675/1996~~
+- ~~\+ altre normative introdotte nel corso del tempo~~
+- D.lgs. 196/2003~~
 - Regolamento generale sulla protezione dei dati (RGPD o **GDPR**)    →  Reg. UE 2016/679  
-(Si applicherà dal 25 maggio 2018)
+(Si applicherà dal **25 maggio 2018**)
 
 ---
 
 ## Privacy: sanzioni e controlli
 
-Sanzioni civili: 2050 cc (“attività pericolosa”, bisogna aver “adottato tutte le misure idonee a evitare il danno”)
+~~Sanzioni civili: 2050 cc (“attività pericolosa”, bisogna aver “adottato tutte le misure idonee a evitare il danno”)~~
 
-Sanzioni amministrative, ad esempio:
+~~Sanzioni amministrative, ad esempio:~~
 
-- Omessa o incompleta informativa: da 6.000 a 36.000 euro (aumentabili fino al triplo)
-- Omessa adozione delle misure minime di sicurezza: da 10.000 a 120.000 euro
+- ~~Omessa o incompleta informativa: da 6.000 a 36.000 euro (aumentabili fino al triplo)~~
+- ~~Omessa adozione delle misure minime di sicurezza: da 10.000 a 120.000 euro~~
 
-Sanzioni penali (reclusione, nelle ipotesi più gravi sino a tre anni - con possibilità di estinzione del reato in via amministrativa)
+
+Sanzioni penali reclusione, nelle ipotesi più gravi sino a tre anni  con possibilità di estinzione del reato in via amministrativa
 
 Controlli: anche tramite la GdF (ispezioni in sede)
 
