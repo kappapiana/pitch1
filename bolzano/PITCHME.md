@@ -147,7 +147,7 @@ intervento ex ante dell’autorità di controllo (Garante Privacy) per autorizza
 
 +++
 
-## Privacy: informativa (segue)
+### Privacy: informativa (segue)
 
 Informativa successiva:
 
@@ -162,7 +162,7 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 +++
 
-## Privacy: informativa (segue)
+### Privacy: informativa (segue)
 
 - l’informativa deve essere concisa, trasparente, intelligibile e facilmente accessibile, ed avere un linguaggio chiaro e semplice
 - l’informativa è data in linea di principio, per iscritto e preferibilmente in formato elettronico
