@@ -48,7 +48,7 @@ Fino al **2%** (4%) del **fatturato**
 
 ## Privacy: principi fondamentali
 
-Liceità, correttezza e trasparenza
+Liceità, correttezza e _trasparenza_
 
 Trattamento solo per scopi determinati, espliciti e legittimi   = limitazione della finalità
 
