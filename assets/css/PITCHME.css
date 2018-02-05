@@ -38,6 +38,7 @@ div.long {font-size: 0.8em;}
 
 .reveal .slides {
   font-size: 0.9em;
+  line-height: 1.5em;
   /* margin-left: -2%; */
   /* margin-right: 3%; */
 }

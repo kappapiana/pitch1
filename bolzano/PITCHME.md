@@ -1,4 +1,3 @@
-<li>
 ## Privacy alla luce del nuovo regolamento
 
 ### un'introduzione
@@ -232,7 +231,7 @@ Quando non è necessario il consenso? Quando il trattamento:
 
 </div>
 
-<div class="fragment"> <img src="assets/red-cross-md.png" class="center" /> </div> 
+<div class="fragment"> <img src="assets/red-cross-md.png" class="center" /> </div>
 
 +++
 
