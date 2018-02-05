@@ -137,8 +137,9 @@ Obblighi di sicurezza vs. distruzione, perdita, accesso non autorizzato, trattam
   <dd>
   “Responsabile” della Protezione dei Dati: ma non lo è!
   Obbligatorietà:
-<li>  enti pubblici;
-<li> attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”
+  </ul>
+    <li>  enti pubblici;
+    <li> attività “principale” che comporta il monitoraggio degli interessati o il trattamento di dati sensibili o giudiziari su “larga scala”
   </dd>
 
 </dl>
