@@ -240,9 +240,9 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 ---
 <!-- .slide: data-transition="none" -->
 ## Privacy: altri adempimenti
-
+~~
 <div class="long">
-**prima di iniziare il trattamento**: necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
+prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
 
 <ul style="font-size:0.9em;">
 <li> Autorizzazione Generale n. 2/2016 al trattamento dei dati idonei a rivelare lo stato di salute e la vita sessuale (anche) agli esercenti le professioni sanitarie (compresi gli psicologi) </li>
@@ -254,7 +254,7 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
     <li> Dati sensibili per finalità di selezione del personale per conto terzi […]</li>
 </ul>
 </ul>
-
+~~
 </div>
 
 +++
