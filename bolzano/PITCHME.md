@@ -259,6 +259,7 @@ prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per 
 
 +++
 <!-- .slide: data-transition="none" -->
+
 ## Privacy: altri adempimenti
 
 <div class="long">
@@ -280,6 +281,7 @@ prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per 
 <img src="assets/red-cross-md.png" class="center" />
 
 +++
+<!-- .slide: data-transition="none" -->
 
 ## Verifica preliminare del Garante
 
@@ -287,6 +289,7 @@ in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi
 
 +++
 <!-- .slide: data-transition="none" -->
+<!-- DUPLICATO PER CROCE -->
 
 ## Verifica preliminare del Garante
 
@@ -296,6 +299,7 @@ in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi
 
 
 +++
+<!-- .slide: data-transition="none" -->
 
 ## Privacy: obblighi di sicurezza
 
@@ -319,7 +323,7 @@ in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi
 
 +++
 <!-- .slide: data-transition="none" -->
-/* DUPLICATO PER CROCE */
+<!--DUPLICATO PER CROCE -->
 
 ## Privacy: obblighi di sicurezza
 
