@@ -293,15 +293,19 @@ prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per 
 ## Privacy: obblighi di sicurezza
 
 <div class="long">
-“Data protection by design and by default” (a monte)
+**“Data protection by design and by default” (a monte)**
 <ul style="font-size:0.9em;">
-<li> Se rischi specifici
+<li> **Se rischi specifici**
+<ul style="font-size:0.9em;">
 <li> privacy impact assessment
 <li> consultazione preventiva (opzionale) del Garante
+</ul>
 <li> Dovere di notificare al Garante (e di comunicare all’interessato) le violazioni subite salvo improbabilità di un rischio per i diritti e le libertà delle persone
 <li> ~~DPS (era già stato abrogato nel 2012)~~
 <li> Registro delle attività di trattamento (molto di più di un DPS → accountability)
+<ul style="font-size:0.9em;">
 <li> il problema dell’obbligatorietà → più di 250 dipendenti, oppure rischio per i diritti e le libertà dell’interessato E (trattamento non occasionale OPPURE tratt. di dati sensibili o giudiziari)
+</ul>
 <li> Nomina del DPO-RPD (vd. più sopra)
 <li> Opzionali: codici di condotta e certificazioni
 </ul>
