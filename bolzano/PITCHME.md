@@ -244,7 +244,7 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 <div class="long" style="text-decoration: line-through red;">
 prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
 
-<ul style="font-size:0.9em; text-decoration: line-through;">
+<ul style="font-size:0.9em; text-decoration: line-through red;">
 <li> Autorizzazione Generale n. 2/2016 al trattamento dei dati idonei a rivelare lo stato di salute e la vita sessuale (anche) agli esercenti le professioni sanitarie (compresi gli psicologi) </li>
 <li> Notificazione del trattamento al Garante: </li>
 
@@ -270,8 +270,8 @@ prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per 
 
 ## Privacy: obblighi di sicurezza
 
-<div class="long" style="text-decoration: line-through;">
-<ul style="font-size:0.9em; text-decoration: line-through;">
+<div class="long" style="text-decoration: line-through red;">
+<ul style="font-size:0.9em; text-decoration: line-through red;">
 <li> Sono previste delle misure minime di sicurezza per tutti i titolari (art.33-35 e all.B, D.lgs.196/2003), e delle misure aggiuntive per gli esercenti professioni sanitarie (art. 22.6-7, All.B artt. 20-24 e 28-29)</li>
 <li> Autenticazione informatica, con procedure di gestione delle credenziali, password cambiate ogni sei mesi (tre mesi per i dati sensibili e giudiziari)</li>
 <li> Profili di autorizzazione degli incaricati, con aggiornamento periodico del trattamento consentito ai singoli incaricati e agli addetti ICT</li>
