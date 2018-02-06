@@ -240,8 +240,8 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 ---
 <!-- .slide: data-transition="none" -->
 ## Privacy: altri adempimenti
-~~
-<div class="long">
+
+<div class="long" style="text-decoration: line-through;">
 prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
 
 <ul style="font-size:0.9em;">
@@ -254,7 +254,7 @@ prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per 
     <li> Dati sensibili per finalità di selezione del personale per conto terzi […]</li>
 </ul>
 </ul>
-~~
+
 </div>
 
 +++
