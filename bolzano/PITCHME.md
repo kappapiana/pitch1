@@ -206,7 +206,7 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 ## Privacy: consenso (segue)
 
-<span style="font-size:0.7em;">**Le altre basi giuridiche del trattamento**. Non necessario il consenso quando il trattamento:</span>
+<span style="font-size:0.7em; line-height: 1.1em;">**Le altre basi giuridiche del trattamento**. Non necessario il consenso quando il trattamento:</span>
 
 <ul style="font-size:0.7em;">
 <li> È necessario per l’esecuzione di un contratto o di una richiesta precontrattuale dell’interessato o per adempiere ad un obbligo legale (non vale per i dati sensibili)
