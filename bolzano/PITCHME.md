@@ -257,10 +257,9 @@ prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per 
 
 </div>
 
-+++
 
 +++
-<!-- .slide: data-transition="none" -->
+
 
 <div style="text-decoration: line-through;">
 ## Verifica preliminare del Garante
@@ -281,7 +280,7 @@ in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi
 <li> Sistemi di backup (almeno settimanale) e disaster recovery</li>
 <li> Procedure per custodia e accesso selezionato agli archivi cartacei</li>
 <li> Trattamenti effettuati da esercenti professioni sanitarie:</li>
-  <ul style="font-size:0.8em; line-height: 1.1em; text-decoration: line-through;">
+  <ul style="font-size:0.8em; line-height: 1.1em;">
     <li> Conservazione separata e trattamento disgiunto dei dati sensibili → cifratura o codici identificativi</li>
     <li> obblighi in materia di supporti rimovibili;</li>
     <li> Disaster recovery entro 7gg.</li>
