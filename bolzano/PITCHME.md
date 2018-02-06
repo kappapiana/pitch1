@@ -169,28 +169,27 @@ Obblighi di sicurezza vs. distruzione, perdita, accesso non autorizzato, trattam
 <li> **se i dati sono trasferiti all’estero e attraverso quali strumenti;**
 </ul>
 
-<!-- FIXME fin qui -->
 +++
 
 ### Privacy: informativa (segue)
 
-Informativa successiva:
+**Informativa successiva:**
 
 una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precedente slide (e salvo informazioni già note all’interessato):
 
 <ul style="font-size:0.8em;">
-<li> Periodo di conservazione dei dati
-<li> Diritto di presentare un reclamo all’autorità di controllo
-<li> Eventuale trattamento mediante processi decisionali automatizzati (es. profilazione), indicando logica e conseguenze
-<li> Se i dati non sono raccolti presso l’interessato, l’informativa deve essere fornita entro un termine ragionevole (max 1 mese) oppure al momento della comunicazione o della registrazione dei dati  e deve indicare la fonte dei dati
+<li> **Periodo di conservazione dei dati**
+<li> **Diritto di presentare un reclamo all’autorità di controllo**
+<li> **Eventuale trattamento mediante processi decisionali automatizzati (es. profilazione), indicando logica e conseguenze**
+<li> Se i dati non sono raccolti presso l’interessato, l’informativa deve essere fornita **entro un termine ragionevole (max 1 mese)** oppure al momento della comunicazione ~~o della registrazione~~ dei dati e **deve indicare la fonte dei dati**
 </ul>
 
 +++
 
 ### Privacy: informativa (segue)
 
-- l’informativa deve essere concisa, trasparente, intelligibile e facilmente accessibile, ed avere un linguaggio chiaro e semplice
-- l’informativa è data in linea di principio, per iscritto e preferibilmente in formato elettronico
+- **l’informativa deve essere concisa, trasparente, intelligibile e facilmente accessibile, ed avere un linguaggio chiaro e semplice**
+- **l’informativa è data in linea di principio, per iscritto e preferibilmente in formato elettronico**
 
 ---
 
@@ -199,27 +198,27 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 - Deve essere libero, specifico, informato e inequivocabile
   - no tacito o presunto (solo dichiarazione o azione positiva)
   - no caselle pre-spuntate sul modulo
-- Per i dati personali “semplici”, deve essere documentato per iscritto dimostrabile dal titolare
-- Per i dati sensibili, deve essere in forma scritta esplicito
-- La richiesta di consenso deve essere chiaramente distinguibile (ad es. nella modulistica), in forma comprensibile, semplice e chiara
+- Per i dati personali “semplici”, deve essere ~~documentato per iscritto~~ **dimostrabile dal titolare**
+- Per i dati sensibili, deve essere ~~in forma scritta~~ **esplicito**
+- **La richiesta di consenso deve essere chiaramente distinguibile (ad es. nella modulistica), in forma comprensibile, semplice e chiara**
 
 +++
 
 ## Privacy: consenso (segue)
 
-<span style="font-size:0.8em;"> Quando non è necessario il consenso? Quando il trattamento:</span>
+<span style="font-size:0.8em;">**Le altre basi giuridiche del trattamento**. Quando non è necessario il consenso? Quando il trattamento:</span>
 
 <ul style="font-size:0.7em;">
 <li> È necessario per l’esecuzione di un contratto o di una richiesta precontrattuale dell’interessato o per adempiere ad un obbligo legale (non vale per i dati sensibili)
-<li> È necessario per perseguire un legittimo interesse del titolare o di terzi nei casi previamente individuati dal Garante sotto la responsabilità del titolare (accountability) – (non vale per i dati sensibili)
+<li> È necessario per perseguire un legittimo interesse del titolare o di terzi ~~nei casi previamente individuati dal Garante~~ **sotto la responsabilità del titolare (accountability)** – (non vale per i dati sensibili)
 <li> È necessario per la salvaguardia degli interessi vitali dell’interessato o di un terzo
 <li> È necessario per perseguire (specifici, nel caso dei dati sensibili) interessi pubblici (ad es. ricerca)
 <ul style="font-size:0.9em;">
-    <li> Oppure: riguarda dati provenienti da pubblici registri, elenchi, atti o documenti  (non vale per i dati sensibili)
+    **<li> Oppure: riguarda dati provenienti da pubblici registri, elenchi, atti o documenti  (non vale per i dati sensibili)
     <li> Riguarda dati relativi allo svolgimento di attività economiche (non vale per i dati sensibili)
     <li> Riguarda aderenti o simpatizzanti di associazioni e organismi senza scopo di lucro (no dati sensibili)
     <li> Riguarda i dati contenuti nei curricula
-    <li> Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amministrativo-contabili
+    <li> Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amministrativo-contabili**
     </ul>
 </ul>
 
