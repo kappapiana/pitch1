@@ -241,7 +241,7 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 <!-- .slide: data-transition="none" -->
 ## Privacy: altri adempimenti
 
-<div class="long" style="text-decoration: line-through;">
+<div class="long" style="text-decoration: line-through red;">
 prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
 
 <ul style="font-size:0.9em; text-decoration: line-through;">
