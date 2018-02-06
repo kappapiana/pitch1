@@ -260,12 +260,11 @@ prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per 
 
 +++
 
-<div style="text-decoration: line-through;">
 
-## Verifica preliminare del Garante
+## ~~ Verifica preliminare del Garante~~
 
-in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
-</div>
+~~in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)~~
+
 
 +++
 
