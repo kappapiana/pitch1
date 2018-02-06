@@ -258,53 +258,22 @@ prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per 
 </div>
 
 +++
+
++++
 <!-- .slide: data-transition="none" -->
 
-## Privacy: altri adempimenti
+<div style="text-decoration: line-through;">
+## Verifica preliminare del Garante
 
-<div class="long">
-**prima di iniziare il trattamento**: necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
-
-<ul style="font-size:0.9em;">
-<li> Autorizzazione Generale n. 2/2016 al trattamento dei dati idonei a rivelare lo stato di salute e la vita sessuale (anche) agli esercenti le professioni sanitarie (compresi gli psicologi) </li>
-<li> Notificazione del trattamento al Garante: </li>
-
-<ul>
-    <li> dati genetici, biometrici o di geolocalizzazione</li>
-    <li> dati idonei a rivelare lo stato di salute e la vita sessuale, trattati a fini di […] prestazione di servizi sanitari per via telematica relativi a banche di dati o alla fornitura di beni, […], rilevazione di malattie mentali, infettive e diffusive, sieropositività, […] </li>
-    <li> Dati sensibili per finalità di selezione del personale per conto terzi […]</li>
-</ul>
-</ul>
-
+in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
 </div>
 
-<img src="assets/red-cross-md.png" class="center" />
-
 +++
-<!-- .slide: data-transition="none" -->
-
-## Verifica preliminare del Garante
-
-in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
-
-+++
-<!-- .slide: data-transition="none" -->
-<!-- DUPLICATO PER CROCE -->
-
-## Verifica preliminare del Garante
-
-in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
-
-<img src="assets/red-cross-md.png" class="center" />
-
-
-+++
-<!-- .slide: data-transition="none" -->
 
 ## Privacy: obblighi di sicurezza
 
-<div class="long">
-<ul style="font-size:0.9em;">
+<div class="long" style="text-decoration: line-through;">
+<ul style="font-size:0.9em; text-decoration: line-through;">
 <li> Sono previste delle misure minime di sicurezza per tutti i titolari (art.33-35 e all.B, D.lgs.196/2003), e delle misure aggiuntive per gli esercenti professioni sanitarie (art. 22.6-7, All.B artt. 20-24 e 28-29)</li>
 <li> Autenticazione informatica, con procedure di gestione delle credenziali, password cambiate ogni sei mesi (tre mesi per i dati sensibili e giudiziari)</li>
 <li> Profili di autorizzazione degli incaricati, con aggiornamento periodico del trattamento consentito ai singoli incaricati e agli addetti ICT</li>
@@ -312,7 +281,7 @@ in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi
 <li> Sistemi di backup (almeno settimanale) e disaster recovery</li>
 <li> Procedure per custodia e accesso selezionato agli archivi cartacei</li>
 <li> Trattamenti effettuati da esercenti professioni sanitarie:</li>
-  <ul style="font-size:0.8em; line-height: 1.1em;">
+  <ul style="font-size:0.8em; line-height: 1.1em; text-decoration: line-through;">
     <li> Conservazione separata e trattamento disgiunto dei dati sensibili → cifratura o codici identificativi</li>
     <li> obblighi in materia di supporti rimovibili;</li>
     <li> Disaster recovery entro 7gg.</li>
@@ -320,32 +289,6 @@ in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi
   </ul>
 </ul>
 </div>
-
-+++
-<!-- .slide: data-transition="none" -->
-<!--DUPLICATO PER CROCE -->
-
-## Privacy: obblighi di sicurezza
-
-<div class="long">
-<ul style="font-size:0.9em;">
-<li> Sono previste delle misure minime di sicurezza per tutti i titolari (art.33-35 e all.B, D.lgs.196/2003), e delle misure aggiuntive per gli esercenti professioni sanitarie (art. 22.6-7, All.B artt. 20-24 e 28-29)</li>
-<li> Autenticazione informatica, con procedure di gestione delle credenziali, password cambiate ogni sei mesi (tre mesi per i dati sensibili e giudiziari)</li>
-<li> Profili di autorizzazione degli incaricati, con aggiornamento periodico del trattamento consentito ai singoli incaricati e agli addetti ICT</li>
-<li> Protezione degli strumenti elettronici (firewall e antivirus), e aggiornamento dei sistemi</li>
-<li> Sistemi di backup (almeno settimanale) e disaster recovery</li>
-<li> Procedure per custodia e accesso selezionato agli archivi cartacei</li>
-<li> Trattamenti effettuati da esercenti professioni sanitarie:</li>
-  <ul style="font-size:0.8em; line-height: 1.1em;">
-    <li> Conservazione separata e trattamento disgiunto dei dati sensibili → cifratura o codici identificativi</li>
-    <li> obblighi in materia di supporti rimovibili;</li>
-    <li> Disaster recovery entro 7gg.</li>
-    <li> Accesso controllato agli archivi cartacei, controllo e custodia di atti e documenti da parte degli incaricati  </li>
-  </ul>
-</ul>
-</div>
-
-<img src="assets/red-cross-md.png" class="center" />
 
 +++
 
