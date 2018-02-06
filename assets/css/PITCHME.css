@@ -95,3 +95,9 @@ strong
         text-shadow: 2px 2px 2px #666;
         color: #dd0000;
       }
+
+  .reveal del {
+   text-decoration-line: line-through;
+     text-decoration-color: red;
+       text-decoration-style: wavy;
+  }   
