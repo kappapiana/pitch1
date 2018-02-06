@@ -285,17 +285,15 @@ prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per 
 
 in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
 
----
++++
+<!-- .slide: data-transition="none" -->
 
-## Privacy: obblighi di sicurezza
+## Verifica preliminare del Garante
 
-Misure di sicurezza
-- informatiche ed organizzative
-- per ridurre al minimo i rischi di:
-  - Distruzione o perdita
-  - Accesso non autorizzato
-  - Trattamento non consentito o non conforme alle finalità
-- preservare l’integrità e la disponibilità dei dati e il loro trattamento secondo le finalità e le modalità stabilite
+in caso di trattamenti di dati non sensibili o giudiziari ma che presenta rischi specifici (es. videosorveglianza)
+
+<img src="assets/red-cross-md.png" class="center" />
+
 
 +++
 
@@ -318,6 +316,33 @@ Misure di sicurezza
   </ul>
 </ul>
 </div>
+
++++
+<!-- .slide: data-transition="none" -->
+/* DUPLICATO PER CROCE */
+
+## Privacy: obblighi di sicurezza
+
+<div class="long">
+<ul style="font-size:0.9em;">
+<li> Sono previste delle misure minime di sicurezza per tutti i titolari (art.33-35 e all.B, D.lgs.196/2003), e delle misure aggiuntive per gli esercenti professioni sanitarie (art. 22.6-7, All.B artt. 20-24 e 28-29)</li>
+<li> Autenticazione informatica, con procedure di gestione delle credenziali, password cambiate ogni sei mesi (tre mesi per i dati sensibili e giudiziari)</li>
+<li> Profili di autorizzazione degli incaricati, con aggiornamento periodico del trattamento consentito ai singoli incaricati e agli addetti ICT</li>
+<li> Protezione degli strumenti elettronici (firewall e antivirus), e aggiornamento dei sistemi</li>
+<li> Sistemi di backup (almeno settimanale) e disaster recovery</li>
+<li> Procedure per custodia e accesso selezionato agli archivi cartacei</li>
+<li> Trattamenti effettuati da esercenti professioni sanitarie:</li>
+  <ul style="font-size:0.8em; line-height: 1.1em;">
+    <li> Conservazione separata e trattamento disgiunto dei dati sensibili → cifratura o codici identificativi</li>
+    <li> obblighi in materia di supporti rimovibili;</li>
+    <li> Disaster recovery entro 7gg.</li>
+    <li> Accesso controllato agli archivi cartacei, controllo e custodia di atti e documenti da parte degli incaricati  </li>
+  </ul>
+</ul>
+</div>
+
+<img src="assets/red-cross-md.png" class="center" />
+
 +++
 
 ## Privacy: obblighi di sicurezza
@@ -329,7 +354,7 @@ Misure di sicurezza
 <li> privacy impact assessment
 <li> consultazione preventiva (opzionale) del Garante
 <li> Dovere di notificare al Garante (e di comunicare all’interessato) le violazioni subite salvo improbabilità di un rischio per i diritti e le libertà delle persone
-<li> DPS (era già stato abrogato nel 2012)
+<li> ~~DPS (era già stato abrogato nel 2012)~~
 <li> Registro delle attività di trattamento (molto di più di un DPS → accountability)
 <li> il problema dell’obbligatorietà → più di 250 dipendenti, oppure rischio per i diritti e le libertà dell’interessato E (trattamento non occasionale OPPURE tratt. di dati sensibili o giudiziari)
 <li> Nomina del DPO-RPD (vd. più sopra)
