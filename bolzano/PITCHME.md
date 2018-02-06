@@ -219,8 +219,8 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
     <li> Riguarda aderenti o simpatizzanti di associazioni e organismi senza scopo di lucro (no dati sensibili)
     <li> Riguarda i dati contenuti nei curricula
     <li> Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amministrativo-contabili
-    **
     </ul>
+    **
 </ul>
 
 +++
@@ -228,12 +228,13 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 ## Privacy: consenso (segue)
 
 <ul style="font-size:0.8em;">
-<li> in relazione a obblighi e diritti specifici del titolare o dell’interessato in materia di lavoro e previdenza (per i dati sensibili)
-<li> se avviene all’interno di organizzazioni senza scopo di lucro con finalità politiche, filosofiche, religiose o sindacali (per i dati sensibili)
-<li> Riguarda dati resi manifestamente pubblici dall’interessato (per i dati sensibili)
+<li>in relazione a obblighi e diritti specifici del titolare o dell’interessato in materia di lavoro e previdenza (per i dati sensibili)
+<li>se avviene all’interno di organizzazioni senza scopo di lucro con finalità politiche, filosofiche, religiose o sindacali (per i dati sensibili)
+<li>**Riguarda dati resi manifestamente pubblici dall’interessato (per i dati sensibili)**
 <li> per accertare, esercitare o difendere un diritto in sede giudiziaria o per l’esercizio della funzione giurisdizionale (per i dati sensibili)
-<li> “per finalità di medicina preventiva o di medicina del lavoro, valutazione della capacità lavorativa del dipendente, diagnosi, assistenza o terapia sanitaria o sociale ovvero gestione dei sistemi e servizi sanitari o sociali” (per i dati sensibili)
-<li> A condizione che i dati siano trattati da professionisti tenuti al segreto professionale (o altre persone soggette a obbligo di segretezza)
+<li>**“per finalità di medicina preventiva o di medicina del lavoro, valutazione della capacità lavorativa del dipendente, diagnosi, assistenza o terapia sanitaria o sociale ovvero gestione dei sistemi e servizi sanitari o sociali” (per i dati sensibili)**
+<ul>
+  <li>**A condizione che i dati siano trattati da professionisti tenuti al segreto professionale (o altre persone soggette a obbligo di segretezza)**
 </ul>
 
 ---
