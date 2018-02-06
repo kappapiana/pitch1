@@ -244,7 +244,7 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 <div class="long" style="text-decoration: line-through;">
 prima di iniziare il trattamento: necessaria l’autorizzazione del Garante per il trattamento di dati sensibili (art.26 D.lgs.196/2013) ma:
 
-<ul style="font-size:0.9em;">
+<ul style="font-size:0.9em; text-decoration: line-through;">
 <li> Autorizzazione Generale n. 2/2016 al trattamento dei dati idonei a rivelare lo stato di salute e la vita sessuale (anche) agli esercenti le professioni sanitarie (compresi gli psicologi) </li>
 <li> Notificazione del trattamento al Garante: </li>
 
