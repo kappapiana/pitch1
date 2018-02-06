@@ -214,8 +214,8 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 <li> È necessario per la salvaguardia degli interessi vitali dell’interessato o di un terzo
 <li> È necessario per perseguire (specifici, nel caso dei dati sensibili) interessi pubblici (ad es. ricerca)
 <ul style="font-size:0.9em;">
-    **<li> Oppure: riguarda dati provenienti da pubblici registri, elenchi, atti o documenti  (non vale per i dati sensibili)
-    <li> Riguarda dati relativi allo svolgimento di attività economiche (non vale per i dati sensibili)
+    **<li> Oppure: riguarda dati provenienti da pubblici registri, elenchi, atti o documenti  (no dati sensibili)
+    <li> Riguarda dati relativi allo svolgimento di attività economiche (no dati sensibili)
     <li> Riguarda aderenti o simpatizzanti di associazioni e organismi senza scopo di lucro (no dati sensibili)
     <li> Riguarda i dati contenuti nei curricula
     <li> Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amministrativo-contabili**
