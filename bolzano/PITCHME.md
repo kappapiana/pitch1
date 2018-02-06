@@ -218,7 +218,8 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
     <li> Riguarda dati relativi allo svolgimento di attività economiche (no dati sensibili)
     <li> Riguarda aderenti o simpatizzanti di associazioni e organismi senza scopo di lucro (no dati sensibili)
     <li> Riguarda i dati contenuti nei curricula
-    <li> Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amministrativo-contabili**
+    <li> Riguarda la comunicazione di dati tra imprese/enti/associazioni collegati tra loro, per finalità amministrativo-contabili
+    **
     </ul>
 </ul>
 
