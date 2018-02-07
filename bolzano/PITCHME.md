@@ -208,12 +208,12 @@ una volta ottenuti i dati, deve includere, oltre a quanto indicato nella precede
 
 <p style="font-size:0.7em; line-height: 1em;">**Le altre basi giuridiche del trattamento**. Non necessario il consenso quando il trattamento:</p>
 
-<ul style="font-size:0.7em; text-decoration: line-through red;">
+<ul style="font-size:0.7em;">
 <li> È necessario per l’esecuzione di un contratto o di una richiesta precontrattuale dell’interessato o per adempiere ad un obbligo legale (non vale per i dati sensibili)
 <li> È necessario per perseguire un legittimo interesse del titolare o di terzi ~~nei casi previamente individuati dal Garante~~ **sotto la responsabilità del titolare (accountability)** – (non vale per i dati sensibili)
 <li> È necessario per la salvaguardia degli interessi vitali dell’interessato o di un terzo
 <li> È necessario per perseguire (specifici, nel caso dei dati sensibili) interessi pubblici (ad es. ricerca)
-<ul style="font-size:0.9em; ">
+<ul style="font-size:0.9em; text-decoration: line-through red;">
     <li> Oppure: riguarda dati provenienti da pubblici registri, elenchi, atti o documenti  (no dati sensibili)
     <li> Riguarda dati relativi allo svolgimento di attività economiche (no dati sensibili)
     <li> Riguarda aderenti o simpatizzanti di associazioni e organismi senza scopo di lucro (no dati sensibili)
