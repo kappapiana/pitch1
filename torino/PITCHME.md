@@ -16,7 +16,7 @@ https://array.eu
 Sono rilevanti i seguenti diritti:
 
 <ul>
--  Marchio |
+<li class="fragment">Marchio </li>
 <li class="fragment"> Brevetto</li>
 <li class="fragment">Database rights (diritto <em>sui generis</em> del costitutore della banca dati)</li>
 </ul>
@@ -36,8 +36,8 @@ Tra tali diritti e il copyright
 - Concessione |
 - Conoscibilità del diritto in capo al titolare |
 - Territorialità |
-- Durata potenzialmente illimitata
-- Copertura nella classe merceologica (salvo marchi notori)
+- Durata potenzialmente illimitata |
+- Copertura nella classe merceologica (salvo marchi notori) |
 
 
 +++
