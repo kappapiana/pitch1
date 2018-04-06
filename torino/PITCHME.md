@@ -20,18 +20,31 @@ Sono rilevanti i seguenti diritti:
 <li class="fragment"> Brevetto</li>
 <li class="fragment">Database rights (diritto <em>sui generis</em> del costitutore della banca dati)</li>
 </ul>
+
+
 ---
 
 # Principali differenze
+
+Tra tali diritti e il copyright
 
 +++
 
 ## Marchio e copyright
 
+<li class="fragment">Concessione</li>
+<li class="fragment">Conoscibilità del diritto in capo al titolare</li>
+
 
 +++
 
 ## Brevetto e copyright
+
+<li class="fragment">Concessione</li>
+<li class="fragment">Conoscibilità del diritto in capo al titolare</li>
+<li class="fragment">prova </li>
+<li class="fragment">qualcosaltro</li>
+ 
 
 +++
 
