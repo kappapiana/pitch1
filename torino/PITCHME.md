@@ -36,8 +36,8 @@ Tra tali diritti e il copyright
 - Concessione |
 - Conoscibilità del diritto in capo al titolare |
 - Territorialità |
-- Durata potenzialmente illimitata |
 - Copertura nella classe merceologica (salvo marchi notori) |
+- Durata potenzialmente illimitata |
 
 
 +++
