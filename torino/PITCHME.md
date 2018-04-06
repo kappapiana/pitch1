@@ -18,3 +18,20 @@ Sono rilevanti i seguenti diritti:
 - Marchio
 - Brevetto
 - Database rights (diritto _sui generis_ del costitutore della banca dati)
+
+---
+
+# Principali differenze
+
++++
+
+## Marchio e copyright
+
+
++++
+
+## Brevetto e copyright
+
++++
+
+## Database right e copyright
