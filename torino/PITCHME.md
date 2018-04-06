@@ -47,8 +47,8 @@ Tra tali diritti e il copyright
 - Invenzione (idea) vs. forma di espressione
 - Concessione
 - Durata 20 anni (dalla prima presentazione)
-- Conoscibilità del diritto in capo al titolare
 - Territorialità
+- Conoscibilità del diritto in capo al titolare
 - Estensione e sussistenza del diritto incerta
 
 +++
@@ -56,7 +56,13 @@ Tra tali diritti e il copyright
 ## _Database right_ e copyright
 
 - Solo in Europa
+- Dati (non creativo, compilativo)
 - Diritto del "Costitutore" (chi effettua rilevanti investimenti per la raccolta, validazione, presentazione dei dati)
-<li class="fragment">Diritto "_sui generis_" </li>
+  - non per la _produzione_ del dato
+<li class="fragment">Diritto "_sui generis_", riguarda: </li>
     - Estrazione parte sostanziale |
     - Riutilizzo |
+
+---
+
+## Conclusioni
