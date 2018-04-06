@@ -15,10 +15,11 @@ https://array.eu
 
 Sono rilevanti i seguenti diritti:
 
+<ul>
 <li class="fragment"> Marchio</li>
 <li class="fragment"> Brevetto</li>
 <li class="fragment">Database rights (diritto <em>sui generis</em> del costitutore della banca dati)</li>
-
+</ul>
 ---
 
 # Principali differenze
