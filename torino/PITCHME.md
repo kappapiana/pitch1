@@ -1,5 +1,6 @@
-#  Diritti di privativa diversi dal copyright e licenze di sofware libero
- 
+##  Diritti di privativa diversi dal copyright
+### e licenze di software libero
+
 Carlo Piana  
 <span class="fa-red">**Array**</span> studio legale  
 https://array.eu
@@ -9,3 +10,9 @@ https://array.eu
 </div>
 
 ---
+
+## Diritti di privativa
+
+- Marchio
+- Brevetto
+- Database rights
