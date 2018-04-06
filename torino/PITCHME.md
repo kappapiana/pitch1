@@ -53,5 +53,5 @@ Tra tali diritti e il copyright
 - Solo in Europa
 - Diritto del "Costitutore" (chi effettua rilevanti investimenti)
 <li class="fragment">Diritto "_sui generis_" </li>
-    - Estrazione parte sostanziale
-    - Riutilizzo 
+    - Estrazione parte sostanziale |
+    - Riutilizzo |
