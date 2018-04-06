@@ -43,9 +43,15 @@ Tra tali diritti e il copyright
 
 - Concessione
 - Conoscibilità del diritto in capo al titolare
+- Territorialità, ma anche:
 - Estensione e sussistenza del diritto incerta |
-- Territorialità |
 
 +++
 
 ## Database right e copyright
+
+- Solo in Europa
+- Diritto del "Costitutore" (chi effettua rilevanti investimenti)
+<li class="fragment">Diritto "_sui generis_" </li>
+    - Estrazione parte sostanziale
+    - Riutilizzo 
