@@ -16,7 +16,7 @@ https://array.eu
 Sono rilevanti i seguenti diritti:
 
 <ul>
-<li class="fragment"> Marchio</li>
+-  Marchio</li>
 <li class="fragment"> Brevetto</li>
 <li class="fragment">Database rights (diritto <em>sui generis</em> del costitutore della banca dati)</li>
 </ul>
@@ -32,19 +32,19 @@ Tra tali diritti e il copyright
 
 ## Marchio e copyright
 
-<li class="fragment">Concessione</li>
-<li class="fragment">Conoscibilità del diritto in capo al titolare</li>
+- Concessione |
+- Conoscibilità del diritto in capo al titolare |
+- Territorialità |
 
 
 +++
 
 ## Brevetto e copyright
 
-<li class="fragment">Concessione</li>
-<li class="fragment">Conoscibilità del diritto in capo al titolare</li>
-<li class="fragment">prova </li>
-<li class="fragment">qualcosaltro</li>
- 
+- Concessione
+- Conoscibilità del diritto in capo al titolare
+- Estensione e sussistenza del diritto incerta |
+- Territorialità |
 
 +++
 
