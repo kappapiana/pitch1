@@ -59,7 +59,7 @@ Tra tali diritti e il copyright
 - Dati (non creativo, compilativo)
 - Diritto del "Costitutore" (chi effettua rilevanti investimenti per la raccolta, validazione, presentazione dei dati)
   - non per la _produzione_ del dato
-<li class="fragment">Diritto "_sui generis_", riguarda: </li>
+- Diritto "_sui generis_", riguarda: 
     - Estrazione parte sostanziale |
     - Riutilizzo |
 
