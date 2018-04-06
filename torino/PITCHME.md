@@ -13,6 +13,8 @@ https://array.eu
 
 ## Diritti di privativa
 
+Sono rilevanti i seguenti diritti
+
 - Marchio
 - Brevetto
 - Database rights
