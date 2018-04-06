@@ -17,7 +17,7 @@ Sono rilevanti i seguenti diritti:
 
 - Marchio |
 - Brevetto |
-- Database rights (diritto _sui generis_ del costitutore della banca dati) |
+- Database rights (diritto <em>sui generis</em> del costitutore della banca dati) |
 
 ---
 
