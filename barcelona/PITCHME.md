@@ -10,4 +10,4 @@ https://array.eu
 
 ---
 
-Test **2**
+Test <span class="fa-red">2</span>
