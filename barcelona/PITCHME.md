@@ -82,6 +82,7 @@ AKA, legal constraints
 # What lies ahead
 
 ---
+
 <div class="bottom">
 @fa[copyright fa-red] 2018 - Carlo Piana, Giaime Ginesu (some rights reserved)   
 
