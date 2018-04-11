@@ -25,11 +25,11 @@ https://array.eu
 
 ## EU and National
 
-EU Directive (PSI): What and at which cost
+EU Directive (**PSI**): What and at which cost
 
-CAD (Codice dell'Amministrazione Digitale) brings "_Open Data by default_": under which license, if at all
+**CAD** (Codice dell'Amministrazione Digitale) brings "_Open Data by default_": under which license, if at all
 
-[National Guidelines](http://lg-patrimonio-pubblico.readthedocs.io/it/latest/index.html) on utilization of Open Data (several releases)
+[**National Guidelines**](http://lg-patrimonio-pubblico.readthedocs.io/it/latest/index.html) on utilization of Open Data (several releases)
 
 +++
 
