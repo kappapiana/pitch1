@@ -1,7 +1,7 @@
 theme-override : assets/css/PITCHME.css
 author: Carlo Piana
 copyright: cc by-SA 4.0 unported
-footnote: © 2018 Carlo Piana, Alberto Pianon - Array (https://array.eu) - Some rights reserved
+footnote: © 2018 Carlo Piana - Array (https://array.eu) - Some rights reserved
 published: true
 theme: black
 background: assets/bg1.png
