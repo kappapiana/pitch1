@@ -4,8 +4,8 @@ Carlo Piana
 <span class="fa-red">**Array**</span> studio legale  
 https://array.eu
 
-
-![Logo](/assets/logo_array.png)
-
+<div class="borderless">
+![](/assets/logo_array.png)
+</div>
 
 ---
