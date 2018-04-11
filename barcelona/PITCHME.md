@@ -35,4 +35,6 @@ CAD (Codice dell'Amministrazione Digitale) brings "_Open Data by default_": unde
 
 ## Regional
 
-_Linee guida regionali_ (Regional Guidelines)
+_Linee guida regionali_ (Regional Guidelines) [[ITA (PDF)][1c94ddee]]
+
+  [1c94ddee]: http://opendata.regione.sardegna.it/informazioni "Introductive page with link to PDF"
