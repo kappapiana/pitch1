@@ -43,7 +43,21 @@ _Linee guida regionali_ (Regional Guidelines) [[ITA (PDF)][1c94ddee]]
 
 Current status of affairs, nationwide:
 
-* No CC0
-* CC-BY advised
+* No **CC0**
+* **CC-BY** advised
 - exceptions
     - Bolzano (clients, go figure!) ;-)
+
+---
+
+# Technical Framework
+
++++
+
+[TBF]
+
+---
+
+# Challenges
+
+---
