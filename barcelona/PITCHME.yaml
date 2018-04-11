@@ -1,7 +1,7 @@
 theme-override : assets/css/PITCHME.css
-author: Carlo Piana
+author: Carlo Piana, Giaime Ginesu
 copyright: cc by-SA 4.0 unported
-footnote: © 2018 Carlo Piana, Alberto Pianon - Array (https://array.eu) - Some rights reserved
-published: true
+footnote: © 2018 Carlo Piana - Array (https://array.eu) Giaime Ginesu - Regione Autonoma della Sardegna - Some rights reserved
+published: false
 theme: black
 background: assets/bg1.png
