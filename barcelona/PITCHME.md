@@ -46,7 +46,8 @@ Current status of affairs, nationwide:
 * No **CC0**
 * **CC-BY** advised
 - exceptions
-    - Bolzano (clients, go figure!) ;-)
+    - Bolzano
+    - ...
 
 ---
 
@@ -60,4 +61,18 @@ Current status of affairs, nationwide:
 
 # Challenges
 
----
++++
+
+## Inbound data providers
+
+AKA, legal constraints
+
++++
+
+## Data Protection
+
+....
+
++++
+
+## Quasi copyright (!)
