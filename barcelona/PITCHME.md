@@ -77,6 +77,9 @@ AKA, legal constraints
 
 ## Quasi copyright (!)
 
+---
+
+# What lies ahead
 
 ---
 <div class="bottom">
