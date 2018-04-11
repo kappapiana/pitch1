@@ -10,7 +10,9 @@ That need be changed*/
   margin-left: 5%;
 }
 
-.fa-red {color: #cc0000; border-top: 2px green; }
+/* .fa-red {color: #cc0000; } */
+.fa-red {color: #cc0000; }
+
 
 .fa-green {color: darkgreen;}
 
