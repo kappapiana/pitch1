@@ -16,3 +16,17 @@ https://array.eu
 * Legal framework |
 * technical framework |
 * challenges |
+
+---
+
+# Legal framework
+
++++
+
+## EU and National
+
+EU Directive (PSI)
+
+CAD (Codice dell'Amministrazione Digitale): "_Open Data by default_"
+
+[National Guidelines](http://lg-patrimonio-pubblico.readthedocs.io/it/latest/index.html) on utilization of Open Data (several releases)
