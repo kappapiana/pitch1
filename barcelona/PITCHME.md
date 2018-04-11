@@ -7,5 +7,12 @@ https://array.eu
 
 ---
 
-Test <span class="fa-red">2</span>
-**Test**
+## Sardinia (Sardegna) an autonomous region
+
+---
+
+## Content
+
+* Legal framework |
+* technical framework |
+* challenges |
