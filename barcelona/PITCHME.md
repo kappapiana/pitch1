@@ -1,4 +1,4 @@
----?image=/assets/barcelona/projects.png&position=bottom 50px center&size=1073px 130px
+---?image=/assets/barcelona/projects.png&position=bottom 50px center&size=800px 112px
 
 # Challenges and tools in publishing open data
 
