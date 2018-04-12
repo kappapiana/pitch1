@@ -61,7 +61,7 @@ Current status of affairs, nationwide:
 
 +++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu.png
 
-[TBF]
++++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu6.gif
 
 ---
 
