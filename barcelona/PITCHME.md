@@ -8,7 +8,6 @@ Carlo Piana    |  Giaime Ginesu
   https://array.eu   |  http://www.regione.sardegna.it/
 
 
-
 ---?image=/assets/barcelona/projects.png&position=top 20px center&size=600px
 
 ## Sardinia (Sardegna) an autonomous region
