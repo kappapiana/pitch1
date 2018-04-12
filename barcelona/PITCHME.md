@@ -1,4 +1,4 @@
----?image=/assets/barcelona/opendata.png&position=top left&size=100% 100%
+---?image=/assets/barcelona/opendata.png&position=top left&size=819px 130px
 
 # Challenges and tools in publishing open data
 
