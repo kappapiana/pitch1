@@ -59,6 +59,16 @@ Current status of affairs, nationwide:
 
 # Technical Framework
 
++++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu11.gif
+
++++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu21.gif
+
++++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu31.gif
+
++++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu41.gif
+
++++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu51.gif
+
 +++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu4.gif
 
 +++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu5.gif
