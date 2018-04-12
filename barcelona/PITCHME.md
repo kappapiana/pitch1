@@ -1,8 +1,12 @@
-#  Diritti di privativa diversi dal copyright e licenze di sofware libero
+# Challenges and tools in publishing open data
 
-Carlo Piana  
+Carlo Piana    |  Giaime Ginesu
+--|--
 <span class="fa-red">**Array**</span> studio legale  
-https://array.eu
+  |  Regione Autonoma Sardegna
+  https://array.eu
+  |  http://www.regione.sardegna.it/
+
 
 
 ---
