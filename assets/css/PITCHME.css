@@ -36,6 +36,10 @@ div.long {font-size: 0.8em;}
 
 /*end logo*/
 
+table, th, td {
+   border: 1px solid black;
+}
+
 /* keep classes on top (bug?) */
 /*yes, it must be bug! */
 
