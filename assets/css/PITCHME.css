@@ -36,7 +36,7 @@ div.long {font-size: 0.8em;}
 
 /*end logo*/
 
-.reveal .slides table, th, td {
+.reveal .slides table, .reveal .slides th, .reveal .slides td {
    border: 1px solid black;
 }
 
