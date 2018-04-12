@@ -4,6 +4,7 @@ Carlo Piana    |  Giaime Ginesu
 --|--
 **Array** studio legale  |  Regione Autonoma Sardegna
   https://array.eu   |  http://www.regione.sardegna.it/
+![opendata](/assets/barcelona/opendata.png)  |  ![opendata](/assets/barcelona/projects.png)
 
 
 
