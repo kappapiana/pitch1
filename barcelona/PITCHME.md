@@ -1,3 +1,5 @@
+---?image=/assets/barcelona/opendata.png&position=top left
+
 # Challenges and tools in publishing open data
 
 Carlo Piana    |  Giaime Ginesu
@@ -5,9 +7,7 @@ Carlo Piana    |  Giaime Ginesu
 **Array** studio legale  |  Regione Autonoma Sardegna
   https://array.eu   |  http://www.regione.sardegna.it/
 
-![opendata](/assets/barcelona/opendata.png&position=bottom 250px center&size=100% 100%)
 
-![opendata](/assets/barcelona/projects.png&position=bottom 50px right 100px&size=100% 100%)
 
 
 
