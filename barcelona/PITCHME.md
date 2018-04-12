@@ -59,7 +59,7 @@ Current status of affairs, nationwide:
 
 # Technical Framework
 
-+++
++++?image=/assets/barcelona/OpenRAS_presentazione23marzo2018_ginesu.png
 
 [TBF]
 
