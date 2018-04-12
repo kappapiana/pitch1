@@ -38,8 +38,9 @@ div.long {font-size: 0.8em;}
 
 .reveal .slides table, .reveal .slides th, .reveal .slides td {
    border: 0px;
-   padding-right: 3em;
-}
+   }
+
+.reveal .slides td {min-width: 40%;}
 
 /* keep classes on top (bug?) */
 /*yes, it must be bug! */
