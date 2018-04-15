@@ -81,6 +81,7 @@ Tipi di atteggiamento:
 
 # Grazie
 <div class="bottom">
+
 per approfondimenti:  
 
 [Brevetti e software: per chi suona la campana?][f95e60ab]
@@ -88,6 +89,8 @@ per approfondimenti:
   [f95e60ab]: http://www.techeconomy.it/2016/10/11/brevetti-e-software-per-chi-suona-la-campana/ "Brevetti e software: per chi suona la campana?"
 
 [Standard e open standard, il diavolo si annida nei dettagli][3f7dbb94]
+
+[3f7dbb94]:http://www.techeconomy.it/2016/02/10/standard-open-standard-diavolo-si-annida-nei-dettagli/ "Standard e open standard, il diavolo si annida nei dettagli"
 
 [Open standard e brevetti][040fa446]
 
