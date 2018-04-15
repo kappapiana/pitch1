@@ -28,7 +28,7 @@ div.long {font-size: 0.8em;}
 
 .borderless {position: relative; left: 50%; clear:both; top: 100px; margin-top: 30px;}
 
-.borderless img {border: 0px !important;
+.borderless .reveal img {border: 0px !important;
     background: none !important;
     box-shadow: none !important;
     position: relative; left: 70%; clear:both; top: 100px; margin-top: 40px;
