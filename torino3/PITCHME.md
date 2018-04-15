@@ -43,7 +43,32 @@ Nonostante l'art. 52.3 (C) della Convenzione Europea su Brevetti (CEB) i brevett
 
 ---
 
-##
+## Brevetti nelle licenze di Software Libero
+
+Tipi di atteggiamento:
+
+* Nessuna previsione (tutte le licenze "vecchie")
+* Liberty or death (GPL v.2)
+* Termination for aggressive Licensing (Apache)
+* Licenza sui contributi (Apache)
+* Licenza su ogni tipo di brevetto rilevante (GPL v.3)
+
+
+---
+
+## Perché è rilevante?
+
+* Settori letteralmente "infestati" di brevetti |
+* Standard-Essential Patents (SEP) |
+
+---
+
+## Altre strategie
+
+* Defensive publication
+* Pooling difensivo/aggressivo Open Invention Network <http://www.openinventionnetwork.com/>
+
+
 
 ---
 
