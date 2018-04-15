@@ -9,11 +9,10 @@ https://array.eu
 
 <div class="borderless">
 
-<span class="fragment">
-
 ![Logo](/assets/logo_array.png)
 
-</span>
+</div>
+
 ---
 
 ## Ricordiamo le differenze:
@@ -29,6 +28,20 @@ https://array.eu
 
 ---
 
+## Un mito sfatato
+
+Nonostante l'art. 52.3 (C) della Convenzione Europea su Brevetti (CEB) i brevetti in Europa <strong class"fragment">esistono</strong> 
+
+## Interazioni tra brevetto e copyright
+
+* Entrambi diritti di privativa
+* Nessuno "autorizza" l'altro
+* Avere scritto un programma non è garanzia per il diritto d'utilizzo
+  - critiche sull'uso dei brevetti nel software
+
+---
+
+##
 
 ---
 
