@@ -31,7 +31,7 @@ div.long {font-size: 0.8em;}
 .reveal .borderless  img {border: 0px !important;
     background: none !important;
     box-shadow: none !important;
-    position: relative; left: 70%; clear:both; top: -200px; margin-top: 40px;
+    position: relative; right: 30%; clear:both; top: -200px; margin-top: 40px;
     width: auto;
     height: auto;
     }
