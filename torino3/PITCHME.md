@@ -17,75 +17,17 @@ https://array.eu
 
 ## Ricordiamo le differenze:
 
-### Marchio e copyright
+### Brevetto e copyright
 
-- Segno distintivo
+- Invenzione (idea) vs. forma di espressione
 - Concessione
-- Conoscibilità del diritto in capo al titolare
+- Durata 20 anni (dalla prima presentazione)
 - Territorialità
-- Copertura nella classe merceologica (salvo marchi notori)
-- Durata potenzialmente illimitata
+- Conoscibilità del diritto in capo al titolare
+- Estensione e sussistenza del diritto incerta
 
 ---
 
-# Licensing di FOSS e di marchio
-
-+++
-
-## Limiti del marchio Principali
-
-- Interazioni con licenze (esclusione)
-- Allora perché parliamo di marchi? |
-
-+++
-
-## Marchio nei progetti di software libero
-
-* Importanza nella scelta
-* Importanza nella registrazione sin da subito
-* Importanza nella registrazione dovunque
-
----
-
-## Cosa può essere Marchio
-
-* Nome (verbale)
-* Un segno grafico (figurativo)
-* Un logo o una combinazione di elementi grafici e verbali (misto)
-* Un suono, un colore, una forma, qualsiasi segno capace di identificare un prodotto o un servizio
-
----
-
-## Cosa NON può essere marchio (nomi)
-
-* Un nome **non nuovo**
-* Un nome **descrittivo**
-
----
-
-## Conservazione del Marchio
-
-Cosa serve per mantenere un marchio:
-
-* Conservazione in vita alla scadenza (rinnovo)
-* Uso nel quinquennio
-* Evitare la volgarizzazione
-
----
-
-## volgarizzazione
-
-Perdita di capacità distintiva perché il nome diventa comune (es: _Cleenex_)
-
-Per un marchio FOSS, il rischio è tutt'altro che remoto.
-
-<li class="fragment">
-Trademark policy
-</li>
-<li class="fragment">
-Controllo della distribuzione in forma **binaria** <span class="fragment">
-(es.: Firefox, Red Hat)</span>
-</li>
 
 ---
 
