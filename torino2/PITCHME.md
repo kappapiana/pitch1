@@ -24,11 +24,14 @@ https://array.eu
 - Copertura nella classe merceologica (salvo marchi notori)
 - Durata potenzialmente illimitata
 
+
 ---
 
-## Il marchio
+## Limiti del marchio Principali
 
-- Funzioni
+-
+
+
 - Interazioni con licenze (esclusione) |
 - Allora perché parliamo di marchi? |
 
@@ -43,6 +46,44 @@ https://array.eu
 * Importanza nella scelta
 * Importanza nella registrazione sin da subito
 * Importanza nella registrazione dovunque
+
+---
+
+## Cosa può essere Marchio
+
+* Nome (verbale)
+* Un segno grafico (figurativo)
+* Un logo o una combinazione di elementi grafici e verbali (misto)
+* Un suono, un colore, una forma, qualsiasi segno capace di identificare un prodotto o un servizio
+
+---
+
+## Cosa NON può essere marchio (nomi)
+
+* Un nome **non nuovo**
+* Un nome **descrittivo**
+
+---
+
+## Conservazione del Marchio
+
+Cosa serve per mantenere un marchio:
+
+* Conservazione in vita alla scadenza (rinnovo)
+* Uso nel quinquennio
+* Evitare la volgarizzazione
+
+---
+
+## volgarizzazione
+
+Perdita di capacità distintiva perché il nome diventa comune (es: _Cleenex_)
+
+Per un marchio FOSS, il rischio è tutt'altro che remoto.
+
+* Trademark policy |
+* Controllo della distribuzione in forma **binaria** (es.: Firefox, Red Hat)
+
 
 ---
 
