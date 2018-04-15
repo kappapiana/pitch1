@@ -53,6 +53,8 @@ Tipi di atteggiamento:
 * Licenza sui contributi (Apache)
 * Licenza su ogni tipo di brevetto rilevante (GPL v.3)
 
+  [3f7dbb94]: http://www.techeconomy.it/2016/02/10/standard-open-standard-diavolo-si-annida-nei-dettagli/ "Standard e open standard, il diavolo si annida nei dettagli"
+
 
 ---
 
@@ -70,7 +72,23 @@ Tipi di atteggiamento:
 * Open Standard (OS)
 
 
-
 ---
 
 ## Conclusioni
+
+---?image=assets/thanks.jpg
+<!-- .slide: data-background-transition="none" -->
+
+# Grazie
+<div class="bottom">
+per approfondimenti:  
+
+[Brevetti e software: per chi suona la campana?][f95e60ab]
+
+  [f95e60ab]: http://www.techeconomy.it/2016/10/11/brevetti-e-software-per-chi-suona-la-campana/ "Brevetti e software: per chi suona la campana?"
+
+[Standard e open standard, il diavolo si annida nei dettagli][3f7dbb94]
+
+[Open standard e brevetti][040fa446]
+
+  [040fa446]: http://www.techeconomy.it/2016/03/10/open-standard-brevetti/ "Open standard e brevetti"
