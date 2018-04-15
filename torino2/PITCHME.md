@@ -24,22 +24,18 @@ https://array.eu
 - Copertura nella classe merceologica (salvo marchi notori)
 - Durata potenzialmente illimitata
 
-
 ---
+
+# Licensing di FOSS e di marchio
+
++++
 
 ## Limiti del marchio Principali
 
--
-
-
-- Interazioni con licenze (esclusione) |
+- Interazioni con licenze (esclusione)
 - Allora perché parliamo di marchi? |
 
----
-
-## Licensing di prodotto e di marchio
-
----
++++
 
 ## Marchio nei progetti di software libero
 
