@@ -81,7 +81,8 @@ Per un marchio FOSS, il rischio è tutt'altro che remoto.
 Trademark policy
 </li>
 <li class="fragment">
-Controllo della distribuzione in forma <strong class="fragment">binaria</strong> (es.: Firefox, Red Hat)
+Controllo della distribuzione in forma **binaria** <span class="fragment">
+(es.: Firefox, Red Hat)</span>
 </li>
 
 ---
