@@ -9,10 +9,11 @@ https://array.eu
 
 <div class="borderless">
 
-![Logo](/assets/logo_array.png)
+<span class="fragment">
 
-</div>
+</li> ![Logo](/assets/logo_array.png)
 
+</span>
 ---
 
 ## Ricordiamo le differenze:
