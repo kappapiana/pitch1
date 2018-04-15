@@ -13,9 +13,22 @@ https://array.eu
 
 ---
 
+## Ricordiamo le differenze:
+
+### Marchio e copyright
+
+- Segno distintivo
+- Concessione
+- Conoscibilità del diritto in capo al titolare
+- Territorialità
+- Copertura nella classe merceologica (salvo marchi notori)
+- Durata potenzialmente illimitata
+
+---
+
 ## Il marchio
 
-- Funzioni 
+- Funzioni
 - Interazioni con licenze (esclusione) |
 - Allora perché parliamo di marchi? |
 
@@ -25,6 +38,12 @@ https://array.eu
 
 ---
 
-##
+## Marchio nei progetti di software libero
+
+* Importanza nella scelta
+* Importanza nella registrazione sin da subito
+* Importanza nella registrazione dovunque
+
+---
 
 ## Conclusioni
