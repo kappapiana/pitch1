@@ -78,12 +78,11 @@ Perdita di capacità distintiva perché il nome diventa comune (es: _Cleenex_)
 Per un marchio FOSS, il rischio è tutt'altro che remoto.
 
 <li class="fragment">
-Trademark policy 
+Trademark policy
 </li>
 <li class="fragment">
-Controllo della distribuzione in forma **binaria** (es.: Firefox, Red Hat)
+Controllo della distribuzione in forma <strong class="fragmen">binaria</strong> (es.: Firefox, Red Hat)
 </li>
-
 
 ---
 
