@@ -11,7 +11,7 @@ https://array.eu
 
 <span class="fragment">
 
-</li> ![Logo](/assets/logo_array.png)
+![Logo](/assets/logo_array.png)
 
 </span>
 ---
