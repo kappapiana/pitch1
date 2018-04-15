@@ -67,6 +67,7 @@ Tipi di atteggiamento:
 
 * Defensive publication
 * Pooling difensivo/aggressivo Open Invention Network <http://www.openinventionnetwork.com/>
+* Open Standard (OS)
 
 
 
