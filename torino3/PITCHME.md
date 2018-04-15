@@ -30,7 +30,7 @@ https://array.eu
 
 ## Un mito sfatato
 
-Nonostante l'art. 52.3 (C) della Convenzione Europea su Brevetti (CEB) i brevetti in Europa <strong class"fragment">esistono</strong>
+Nonostante l'art. 52.3 (C) della Convenzione Europea su Brevetti (CEB) i brevetti in Europa <strong class="fragment">esistono</strong>
 
 ---
 
