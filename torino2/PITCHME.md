@@ -32,9 +32,11 @@ https://array.eu
 
 ## Limiti del marchio Principali
 
+<ul>
 - Interazioni con licenze (esclusione)
+<ul><li class="fragment">La licenza pubblica di software **non dà** (di regola) una licenza **sul marchio** </li> </ul>
 - Allora perché parliamo di marchi? |
-
+</ul>
 +++
 
 ## Marchio nei progetti di software libero
@@ -75,7 +77,7 @@ Cosa serve per mantenere un marchio:
 
 Perdita di capacità distintiva perché il nome diventa comune (es: _Cleenex_)
 
-Per un marchio FOSS, il rischio è tutt'altro che remoto.
+Per un marchio FOSS, il rischio è tutt'altro che remoto. Occorre evitare che il nome diventi comune.
 
 <li class="fragment">
 Trademark policy
