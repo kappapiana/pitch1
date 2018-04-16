@@ -3,5 +3,5 @@ author: Carlo Piana
 copyright: cc by-SA 4.0 unported
 footnote: © 2018 Carlo Piana - Array (https://array.eu) - Some rights reserved
 published: true
-theme: black
-background: assets/bg1.png
+theme: white
+# background: assets/bg1.png
