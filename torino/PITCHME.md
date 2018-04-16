@@ -33,7 +33,7 @@ Sono rilevanti i seguenti diritti:
 
 # Principali differenze
 
-Tra tali diritti e il copyright
+Tra i principali diritti e il copyright
 
 +++
 
