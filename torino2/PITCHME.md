@@ -32,7 +32,7 @@ https://array.eu
 
 ## Concetti fondamentali
 
-<ul class="fragment">
+<ul>
 <li class="fragment"> Interazioni con licenze (esclusione) </li>
 <ul>
 <li class="fragment">La licenza pubblica di software **non dà** (di regola) una licenza **sul marchio** </li>
@@ -91,6 +91,7 @@ Trademark policy
 Controllo della distribuzione in forma **binaria** <span class="fragment">
 (es.: Firefox, Red Hat)</span>
 </li>
+<li class="fragment">Solo i "binari" rilasciati dal titolare possono recare il marchio (controllo di qualità)</li>
 </ul>
 ---
 
