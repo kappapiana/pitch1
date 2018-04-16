@@ -22,8 +22,10 @@ Sono rilevanti i seguenti diritti:
 <li class="fragment"> Brevetto</li>
 <li class="fragment">Database rights (diritto <em>sui generis</em> del costitutore della banca dati)</li>
 <li class="fragment">Altri diritti</li>
-    - Trade Secret / Informazioni confidenziali |
-    - DRM |
+<ul>
+<li class="fragment"> Trade Secret / Informazioni confidenziali </li>
+<li class="fragment"> DRM </li>
+</ul>
 </ul>
 
 
