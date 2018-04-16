@@ -21,6 +21,9 @@ Sono rilevanti i seguenti diritti:
 <li class="fragment">Marchio </li>
 <li class="fragment"> Brevetto</li>
 <li class="fragment">Database rights (diritto <em>sui generis</em> del costitutore della banca dati)</li>
+<li class="fragment">Altri diritti</li>
+    - Trade Secret / Informazioni confidenziali |
+    - DRM |
 </ul>
 
 
@@ -58,9 +61,9 @@ Tra tali diritti e il copyright
 ## _Database right_ e copyright
 
 - Solo in Europa
-- Dati (non creativo, compilativo)
-- Diritto del "Costitutore" (chi effettua rilevanti investimenti per la raccolta, validazione, presentazione dei dati)
-  - non per la _produzione_ del dato
+- Dati (non creativo, compilativo) |
+- Diritto del "Costitutore" (chi effettua rilevanti investimenti per la raccolta, validazione, presentazione dei dati) |
+  - non per la _produzione_ del dato |
 - Diritto "_sui generis_", riguarda:
     - Estrazione parte sostanziale |
     - Riutilizzo |
