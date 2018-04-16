@@ -17,7 +17,7 @@ https://array.eu
 
 ## Ricordiamo le differenze:
 
-## _Database right_ e copyright
+### _Database rights_ e copyright
 
 - Solo in Europa
 - Dati (non creativo, compilativo)
@@ -27,6 +27,17 @@ Diritto "_sui generis_", riguarda:
     - Estrazione parte sostanziale
     - Riutilizzo
 - Durata: 15 anni dall'ultimo investimento sostanziale
+
+
+---
+
+---
+
+## Trade secrets
+
+---
+
+## DRM
 
 
 ---
