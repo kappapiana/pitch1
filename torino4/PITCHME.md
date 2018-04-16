@@ -31,6 +31,8 @@ Diritto "_sui generis_", riguarda:
 
 ---
 
+##
+
 ---
 
 ## Trade secrets
@@ -43,5 +45,3 @@ Diritto "_sui generis_", riguarda:
 ---
 
 ## Conclusioni
-
-standard e brevetti"

@@ -60,7 +60,7 @@ Tra i principali diritti e il copyright
 
 +++
 
-## _Database right_ e copyright
+## _Database rights_ e copyright
 
 - Solo in Europa
 - Dati (non creativo, compilativo) |

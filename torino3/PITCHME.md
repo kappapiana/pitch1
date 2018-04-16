@@ -5,7 +5,7 @@
 
 Carlo Piana  
 <span class="fa-red">**Array**</span> studio legale  
-https://array.eu
+<https://array.eu>
 
 <div class="borderless">
 
@@ -53,9 +53,6 @@ Tipi di atteggiamento:
 * Licenza sui contributi (Apache)
 * Licenza su ogni tipo di brevetto rilevante (GPL v.3)
 
-  [3f7dbb94]: http://www.techeconomy.it/2016/02/10/standard-open-standard-diavolo-si-annida-nei-dettagli/ "Standard e open standard, il diavolo si annida nei dettagli"
-
-
 ---
 
 ## Perché è rilevante?
@@ -80,6 +77,7 @@ Tipi di atteggiamento:
 <!-- .slide: data-background-transition="none" -->
 
 # Grazie
+
 <div class="bottom">
 
 per approfondimenti:  
@@ -90,8 +88,9 @@ per approfondimenti:
 
 [Standard e open standard, il diavolo si annida nei dettagli][3f7dbb94]
 
-[3f7dbb94]:http://www.techeconomy.it/2016/02/10/standard-open-standard-diavolo-si-annida-nei-dettagli/ "Standard e open standard, il diavolo si annida nei dettagli"
+  [3f7dbb94]:http://www.techeconomy.it/2016/02/10/standard-open-standard-diavolo-si-annida-nei-dettagli/ "Standard e open standard, il diavolo si annida nei dettagli"
 
 [Open standard e brevetti][040fa446]
 
   [040fa446]: http://www.techeconomy.it/2016/03/10/open-standard-brevetti/ "Open standard e brevetti"
+</div>
