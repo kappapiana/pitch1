@@ -30,7 +30,7 @@ https://array.eu
 
 +++
 
-## Limiti del marchio Principali
+## Principali aspetti
 
 <ul class="fragment">
 <li class="fragment"> Interazioni con licenze (esclusione) </li>
