@@ -1,7 +1,7 @@
 ##  Diritti di privativa diversi dal copyright
 ### e licenze di software libero
 
-#### 3: Licenze e brevetto
+#### 4: altri diritti
 
 Carlo Piana  
 <span class="fa-red">**Array**</span> studio legale  
@@ -9,7 +9,7 @@ https://array.eu
 
 <div class="borderless">
 
-![Logo](/assets/logo_array.png)
+![Logo](/assets/logo_array.png)Licenze e brevetto
 
 </div>
 
@@ -76,22 +76,4 @@ Tipi di atteggiamento:
 
 ## Conclusioni
 
----?image=assets/thanks.jpg
-<!-- .slide: data-background-transition="none" -->
-
-# Grazie
-<div class="bottom">
-
-per approfondimenti:  
-
-[Brevetti e software: per chi suona la campana?][f95e60ab]
-
-  [f95e60ab]: http://www.techeconomy.it/2016/10/11/brevetti-e-software-per-chi-suona-la-campana/ "Brevetti e software: per chi suona la campana?"
-
-[Standard e open standard, il diavolo si annida nei dettagli][3f7dbb94]
-
-[3f7dbb94]:http://www.techeconomy.it/2016/02/10/standard-open-standard-diavolo-si-annida-nei-dettagli/ "Standard e open standard, il diavolo si annida nei dettagli"
-
-[Open standard e brevetti][040fa446]
-
-  [040fa446]: http://www.techeconomy.it/2016/03/10/open-standard-brevetti/ "Open standard e brevetti"
+standard e brevetti"
