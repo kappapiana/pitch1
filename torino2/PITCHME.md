@@ -32,9 +32,11 @@ https://array.eu
 
 ## Limiti del marchio Principali
 
-<ul>
+<ul class="fragment">
 <li class="fragment"> Interazioni con licenze (esclusione) </li>
-<ul><li class="fragment">La licenza pubblica di software **non dà** (di regola) una licenza **sul marchio** </li> </ul>
+<ul>
+<li class="fragment">La licenza pubblica di software **non dà** (di regola) una licenza **sul marchio** </li>
+</ul>
 <li class="fragment">Allora perché parliamo di marchi? </li>
 </ul>
 
