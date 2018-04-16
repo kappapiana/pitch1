@@ -73,10 +73,7 @@ Tipi di atteggiamento:
 
 ## Conclusioni
 
----?image=assets/thanks.jpg
-<!-- .slide: data-background-transition="none" -->
-
-# Grazie
+---
 
 <div class="bottom">
 
