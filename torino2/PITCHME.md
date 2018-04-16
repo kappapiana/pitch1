@@ -30,14 +30,16 @@ https://array.eu
 
 +++
 
-## Principali aspetti
+## Concetti fondamentali
 
 <ul class="fragment">
 <li class="fragment"> Interazioni con licenze (esclusione) </li>
 <ul>
 <li class="fragment">La licenza pubblica di software **non dà** (di regola) una licenza **sul marchio** </li>
+<li class="fragment">La licenza di marchio non è uno dei permessi richiedibili da una licenza copyleft</li>
 </ul>
 <li class="fragment">Allora perché parliamo di marchi? </li>
+<li class="fragment">Fondamentale importanza nella creazione di un progetto FOSS (community o silos, non importa)</li>
 </ul>
 
 +++
