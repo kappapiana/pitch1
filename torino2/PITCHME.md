@@ -83,7 +83,7 @@ Cosa serve per mantenere un marchio:
 Perdita di capacità distintiva perché il nome diventa comune (es: _Cleenex_)
 
 Per un marchio FOSS, il rischio è tutt'altro che remoto. Occorre evitare che il nome diventi comune.
-<ul class="fragment">
+<ul>
 <li class="fragment">
 Trademark policy
 </li>
