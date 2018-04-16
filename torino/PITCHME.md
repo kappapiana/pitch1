@@ -66,7 +66,7 @@ Tra tali diritti e il copyright
 - Dati (non creativo, compilativo) |
 - Diritto del "Costitutore" (chi effettua rilevanti investimenti per la raccolta, validazione, presentazione dei dati) |
   - non per la _produzione_ del dato |
-- Diritto "_sui generis_", riguarda: |
+<li class="fragment"> Diritto "_sui generis_", riguarda: </li>
     - Estrazione parte sostanziale |
     - Riutilizzo |
 - Durata: 15 anni dall'ultimo investimento sostanziale |
