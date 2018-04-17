@@ -80,7 +80,7 @@ Presupposti:
 
 ## Licenze pubbliche di segreti?
 
-Assurdo ("once the bell has been rung, it can't be un-rung")
+Assurdo ("_once the bell has been rung, it can't be un-rung_")
 
 Necessario un **Regime** di circolazione riservato. Possibile ad esempio con:
 
@@ -94,9 +94,9 @@ Necessario un **Regime** di circolazione riservato. Possibile ad esempio con:
 
 La crittografia si basa su:
 
-- Qualcosa che solo qualcuno è (es.: biometria)
-- Qualcosa che solo qualcuno ha, possiede fisicamente (dispositivi, chiavi fisiche)
-- Qualcosa che solo qualcuno sa, possiede logicamente (informazioni **segrete**, come una chiave privata di crittografia)
+<li class="fragment">Qualcosa che solo qualcuno è (es.: biometria)
+<li class="fragment">Qualcosa che solo qualcuno ha, possiede fisicamente (dispositivi, chiavi fisiche)
+<li class="fragment">Qualcosa che solo qualcuno sa, possiede logicamente (informazioni **segrete**, come una chiave privata di crittografia)
 
 ---
 
