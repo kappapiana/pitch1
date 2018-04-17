@@ -28,8 +28,8 @@ Carlo Piana    |  Giaime Ginesu
 ## Content
 
 * Legal framework |
-* technical framework |
-* challenges |
+* Technical framework |
+* Challenges |
 
 ---
 
