@@ -93,10 +93,11 @@ Necessario un **Regime** di circolazione riservato. Possibile ad esempio con:
 ## Un caso particolare di segreti: la Crittografia
 
 La crittografia si basa su:
-
-<li class="fragment">Qualcosa che solo qualcuno è (es.: biometria)
-<li class="fragment">Qualcosa che solo qualcuno ha, possiede fisicamente (dispositivi, chiavi fisiche)
-<li class="fragment">Qualcosa che solo qualcuno sa, possiede logicamente (informazioni **segrete**, come una chiave privata di crittografia)
+<ul>
+<li class="fragment">Qualcosa che solo qualcuno è (es.: biometria)</li>
+<li class="fragment">Qualcosa che solo qualcuno ha, possiede fisicamente (dispositivi, chiavi fisiche)</li>
+<li class="fragment">Qualcosa che solo qualcuno sa, possiede logicamente (informazioni **segrete**, come una chiave privata di crittografia)</li>
+</ul>
 
 ---
 
