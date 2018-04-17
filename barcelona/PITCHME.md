@@ -82,15 +82,25 @@ Current status of affairs, nationwide:
 
 AKA, legal constraints
 
+* Mostly CC-BY, some proprietary
+* Pictures, the license of which are uncertain
+
 +++
 
 ## Data Protection
 
-....
+- Open data by default, but not for personal data
+- Conflates  license and data protection
+    - In line with WP29 position
+    - quite absurd
 
 +++
 
 ## Quasi copyright (!)
+
+- Art. 107-108 of the Italian Heritage Good Code (Codice dei beni culturali)
+- Duty of care in giving heritage goods for physical copies (preservation of the object) becomes (by interpretation) pseudo-copyright on those who take Pictures
+- Including a SKULL (!)
 
 ---
 
