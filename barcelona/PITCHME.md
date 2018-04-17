@@ -10,7 +10,17 @@ Carlo Piana    |  Giaime Ginesu
 
 ---?image=/assets/barcelona/projects.png&position=top 20px center&size=600px
 
-## Sardinia (Sardegna) an autonomous region
+## Consulting team:
+
+* Carlo Piana
+* Giovanni Battista Gallus
+* Francesco Paolo Micozzi
+
+---
+  <!-- .slide: data-background-image="./assets/md/assets/projects.png" data-background-size="600px" data-background-color=" " data-background-position="top 20px center" -->
+
+
+## Sardinia (Sardegna) an autonomous and gorgeous region
 
 ---
 
@@ -44,11 +54,11 @@ _Linee guida regionali_ (Regional Guidelines) [[ITA (PDF)][1c94ddee]]
 
 +++
 
-Current status of affairs, nationwide:
+## Current status of affairs, nationwide
 
 * No **CC0**
-* **CC-BY** advised
-- exceptions
+* **CC-BY** advised by National Guidelines
+- exceptions (we advise for the contrary)
     - Bolzano
     - ...
 
@@ -82,15 +92,29 @@ Current status of affairs, nationwide:
 
 AKA, legal constraints
 
+* Datasets in part belong to other bodies or private companies
+* Mostly CC-BY, some proprietary
+* Pictures, the license of which are uncertain; other content
+* Pseudo-copyright (?!)
+
 +++
 
 ## Data Protection
 
-....
+- Open data by default, but not for **personal data**
+- Conflates  license and data protection
+    - In line with WP29 position
+    - quite absurd</span>
 
 +++
 
-## Quasi copyright (!)
+## Pseudo copyright (?!)
+
+- Art. 107-108 of the Italian Heritage Goods Code (Codice dei beni culturali)
+- A duty of care permitting copies of heritage goods (preservation of the object) becomes (by interpretation) a pseudo-copyright on those who take pictures, including of a <span class="fragment"> **SKULL** (yes, Supreme Court has said so...)</span>
+- Independently from possibly existing copyright of the author or their heirs, or the expiration of it.
+- Condition: must be kept by a public body (the same, if held by a private cultural institution it would be untouched)
+- Free only for non-commercial uses
 
 ---
 
@@ -100,6 +124,8 @@ AKA, legal constraints
 
 <div class="bottom">
 @fa[copyright fa-red] 2018 - Carlo Piana, Giaime Ginesu (some rights reserved)   
+
+**Chatham House Rule waived.**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
 
