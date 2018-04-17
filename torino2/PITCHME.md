@@ -30,10 +30,17 @@ https://array.eu
 
 +++
 
-## Limiti del marchio Principali
+## Concetti fondamentali
 
-- Interazioni con licenze (esclusione)
-- Allora perché parliamo di marchi? |
+<ul>
+<li class="fragment"> Interazioni con licenze (esclusione) </li>
+<ul>
+<li class="fragment">La licenza pubblica di software **non dà** (di regola) una licenza **sul marchio** </li>
+<li class="fragment">La licenza di marchio non è uno dei permessi richiedibili da una licenza copyleft</li>
+</ul>
+<li class="fragment">Allora perché parliamo di marchi? </li>
+<li class="fragment">Fondamentale importanza nella creazione di un progetto FOSS (community o silos, non importa)</li>
+</ul>
 
 +++
 
@@ -75,8 +82,8 @@ Cosa serve per mantenere un marchio:
 
 Perdita di capacità distintiva perché il nome diventa comune (es: _Cleenex_)
 
-Per un marchio FOSS, il rischio è tutt'altro che remoto.
-
+Per un marchio FOSS, il rischio è tutt'altro che remoto. Occorre evitare che il nome diventi comune.
+<ul>
 <li class="fragment">
 Trademark policy
 </li>
@@ -84,7 +91,8 @@ Trademark policy
 Controllo della distribuzione in forma **binaria** <span class="fragment">
 (es.: Firefox, Red Hat)</span>
 </li>
-
+<li class="fragment">Solo i "binari" rilasciati dal titolare possono recare il marchio (controllo di qualità)</li>
+</ul>
 ---
 
 ## Conclusioni
