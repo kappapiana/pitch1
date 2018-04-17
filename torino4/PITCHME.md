@@ -156,9 +156,8 @@ Protezioni penali su presupposti diversi
 
 ## Il caso TiVo e la clausola "anti Tivoizzazione"
 
-- TiVo, un popolare apparecchio in USA per registrare trasmissioni televisive (time shifting)
-- Linux embedded
-- Il software, per "girare" sulla piattaforma, doveva essere firmato con una chiave segreta, non messa a disposizione di terzi
+- TiVo, un popolare apparecchio in USA per registrare trasmissioni televisive (time shifting)con Linux embedded
+- Il software doveva essere firmato con una chiave segreta, non messa a disposizione di terzi
 - In pratica ciò ha frustrato il diritto di _modificare_ il software, pur concesso (obbligatoriamente) con la GPL v.2, perché il software modificato non poteva essere installato sulla piattaforma target.
 - In gergo questo fenomeno è stato chiamato "Tivoizzazione"  (<https://en.wikipedia.org/wiki/Tivoization>)
 
