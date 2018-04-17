@@ -46,7 +46,7 @@ Non esiste un vero "copyleft"
   <ul>
     <li class="fragment">caso 1: dataset esteso @fa[arrow-right] licenza compatibile</li>
     <li class="fragment">caso 2: dataset correlato @fa[arrow-right] non opera derivata</li>
-    <li class="fragment">caso 3: dataset inserito in software @fa[arrow-right] database rights vs. copyright @fa[arrow-right]</li>
+    <li class="fragment">caso 3: dataset inserito in software @fa[arrow-right] database rights vs. copyright <span class="fragment">@fa[arrow-right] nessuna licenza</span> </li>
   </ul>
 </ul>
 
