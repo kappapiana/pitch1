@@ -55,10 +55,14 @@ Non esiste un vero "copyleft" per i database rights, a causa dei limitati diritt
 
 ---
 
-## Altri casi in cui dati e software interagiscono
+## API
 
-- API
-- Cloud
+- API = Application Programming Interface.
+- Una fattispecie di possibile riutilizzo, se va a "pescare" dati da una fonte accessibile in rete, ad esempio:
+    - usando una chiave di autenticazione/identificazione che non potrebbe essere utilizzata in quanto fornita "privatamente"
+    - non rispettando le condizioni contrattuali poste all'accesso a quella risorsa (per tipologia di uso o quantità)
+    - Non rispettando (ad esempio offuscando) le condizioni di licenza pubblica eventualmente apposte o violando il requisito di attribuzione eccetera.
+- Sia con applicazioni locali che con applicazioni di rete.
 
 ---
 
@@ -82,6 +86,24 @@ Presupposti:
 ## Codice oggetto
 
 Il codice oggetto tenuto segreto è _anche_ un segreto industriale!
+
+La clausola che consente la decompilazione solo a condizione (tra l'altro) di non divulgare i risultati della decompilazione è appunto quello.
+
++++
+
+## Il caso Microsoft (brevi cenni)
+
+Microsoft è stata ritenuta in violazione del diritto antitrust europeo per non aver fornito sufficienti e tempestive modifiche a protocolli di rete necessari per acquisire l'interoperabilità.
+
+Per reazione, è stata condannata a fornire tali informazioni su certi suoi protocolli _segreti_ in maniera tempestiva e completa, sotto condizioni ragionevoli e non discriminatorie.
+
+Appellatasi al Tribunale UE, ha perso. Caso T-201/04
+
+Samba, attraverso la Protocol Freedom Information Foundation è diventata licenziataria dei protocolli sotto condizioni compatibili con la GPL, essendo il principale "concorrente" nel settore. La "licenza" era un contratto per accedere alle informazioni segrete.
+
+Dopo poco Microsoft ha reso completamente pubbliche le stesse informazioni ed emesso la "Open Specification Promise"
+
+<https://msdn.microsoft.com/en-us/openspecifications/dn646765.aspx>
 
 ---
 
@@ -130,6 +152,19 @@ Protezioni penali su presupposti diversi
 
 ## Il caso TiVo e la clausola "anti Tivoizzazione"
 
+- TiVo, un popolare apparecchio in USA per registrare trasmissioni televisive (time shifting)
+- Linux embedded
+- Il software, per "girare" sulla piattaforma, doveva essere firmato con una chiave segreta, non messa a disposizione di terzi
+- In pratica ciò ha frustrato il diritto di _modificare_ il software, pur concesso (obbligatoriamente) con la GPL v.2, perché il software modificato non poteva essere installato sulla piattaforma target.
+- In gergo questo fenomeno è stato chiamato "Tivoizzazione"  (<https://en.wikipedia.org/wiki/Tivoization>)
+
++++
+
+## La reazione della GPL
+
+La GPL v.3 ha introdotto una clausola apposita per evitare la Tivoizzazione.
+
+Non solo deve essere fornito il codice completo necessario a compilare una versione alternativa del codice oggetto, devono essere fornite **complete informazioni di installazione** tra cui appunto eventuali chiavi di crittografia con cui il codice deve essere firmato, in un formato pubblicamente disponibile. (GPL v.3, section 6)
 
 
 
