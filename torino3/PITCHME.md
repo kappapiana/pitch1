@@ -30,7 +30,7 @@ Carlo Piana
 
 ## Un mito sfatato
 
-Nonostante l'art. 52.3 (C) della Convenzione Europea su Brevetti (CEB) i brevetti in Europa <span class="fragment">**esistono**</span>
+Nonostante l'art. 52.3 e l'art. 52.2(C) della Convenzione Europea su Brevetti (CEB, EPC) i brevetti in Europa <span class="fragment">**esistono**</span>
 
 ---
 
