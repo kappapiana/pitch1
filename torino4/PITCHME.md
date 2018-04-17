@@ -75,7 +75,7 @@ Fonti:
 
 Presupposti:
 
-* Valore industriale
+* Valore economico
 * Attivamente protetti
     - Logicamente
     - Fisicamente
@@ -99,7 +99,7 @@ Per reazione, è stata condannata a fornire tali informazioni su certi suoi prot
 
 Appellatasi al Tribunale UE, ha perso. Caso T-201/04
 
-Samba, attraverso la Protocol Freedom Information Foundation è diventata licenziataria dei protocolli sotto condizioni compatibili con la GPL, essendo il principale "concorrente" nel settore. La "licenza" era un contratto per accedere alle informazioni segrete. (continua)
+Samba, attraverso la Protocol Freedom Information Foundation è diventata licenziataria dei protocolli sotto condizioni compatibili con la GPL (continua)
 
 +++
 
