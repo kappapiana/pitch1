@@ -31,7 +31,7 @@ Diritto "_sui generis_", riguarda:
 
 ---
 
-## Strumenti legali
+## Licenze apposite
 
 A differenza dei brevetti, non è opportuno usare la licenza pubblica di software per licenziare i diritti sui dati. Usare una licenza apposita, separata, o meglio un waiver se possibile (per esempio CC0)
 
@@ -40,6 +40,7 @@ A differenza dei brevetti, non è opportuno usare la licenza pubblica di softwar
 ## Copyleft nei dati @fa[arrow-right] nel software?
 
 Non esiste un vero "copyleft" per i database rights, a causa dei limitati diritti di esclusiva conferiti (riutilizzo, estrazione)
+
 <ul>
 <li class="fragment">Non esiste una vera e propria opera derivata</li>
 <li class="fragment">What if licenza dati "Share alike?" (es CC-BY-SA)</li>
@@ -75,6 +76,8 @@ Presupposti:
     - Logicamente
     - Fisicamente
     - Giuridicamente
+
+Il codice oggetto tenuto segreto è _anche_ un segreto industriale!
 
 ---
 
