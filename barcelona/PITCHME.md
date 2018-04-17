@@ -7,7 +7,7 @@ Carlo Piana    |  Giaime Ginesu
 **Array** studio legale  |  Regione Autonoma Sardegna
   https://array.eu   |  http://www.regione.sardegna.it/
 
-**Chatham House Rule Waived**
+#### Chatham House Rule Waived
 
 ---?image=/assets/barcelona/projects.png&position=top 20px center&size=600px
 
