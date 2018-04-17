@@ -99,9 +99,13 @@ Per reazione, è stata condannata a fornire tali informazioni su certi suoi prot
 
 Appellatasi al Tribunale UE, ha perso. Caso T-201/04
 
-Samba, attraverso la Protocol Freedom Information Foundation è diventata licenziataria dei protocolli sotto condizioni compatibili con la GPL, essendo il principale "concorrente" nel settore. La "licenza" era un contratto per accedere alle informazioni segrete.
+Samba, attraverso la Protocol Freedom Information Foundation è diventata licenziataria dei protocolli sotto condizioni compatibili con la GPL, essendo il principale "concorrente" nel settore. La "licenza" era un contratto per accedere alle informazioni segrete. (continua)
 
-Dopo poco Microsoft ha reso completamente pubbliche le stesse informazioni ed emesso la "Open Specification Promise"
++++
+
+## Il caso Microsoft (conclusione)
+
+Dopo poco Microsoft ha reso completamente pubbliche le stesse informazioni ed emesso la "Open Specification Promise", andando al di là di quanto era stata richiesta
 
 <https://msdn.microsoft.com/en-us/openspecifications/dn646765.aspx>
 
