@@ -77,6 +77,10 @@ Presupposti:
     - Fisicamente
     - Giuridicamente
 
++++
+
+## Codice oggetto
+
 Il codice oggetto tenuto segreto è _anche_ un segreto industriale!
 
 ---
