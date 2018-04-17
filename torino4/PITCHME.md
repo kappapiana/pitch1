@@ -37,7 +37,7 @@ A differenza dei brevetti, non è opportuno usare la licenza pubblica di softwar
 
 +++
 
-## Copyleft nei dati
+## Copyleft nei dati @fa[arrow-right] software?
 
 Non esiste un vero "copyleft"
 <ul>
