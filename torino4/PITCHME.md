@@ -31,7 +31,26 @@ Diritto "_sui generis_", riguarda:
 
 ---
 
-##
+## Strumenti legali
+
+A differenza dei brevetti, non è opportuno usare la licenza pubblica di software per licenziare i diritti sui dati. Usare una licenza apposita, separata, o meglio un waiver se possibile (per esempio CC0)
+
++++
+
+## Copyleft nei dati
+
+Non esiste un vero "copyleft"
+<ul>
+<li class="fragment">Non esiste una vera e propria opera derivata</li>
+<li class="fragment">What if licenza dati "Share alike?" (es CC-BY-SA)</li>
+  <ul>
+    <li class="fragment">caso 1: dataset esteso @fa[arrow-right] licenza compatibile</li>
+    <li class="fragment">caso 2: dataset correlato @fa[arrow-right] non opera derivata</li>
+    <li class="fragment">caso 3: dataset inserito in software @fa[arrow-down] database rights vs. copyright @fa[arrow-right]</li>
+  </ul>
+</ul>
+
+Non si applica dunque il copyleft al software, si possono usare due licenze diverse.
 
 ---
 
