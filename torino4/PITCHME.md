@@ -39,7 +39,7 @@ A differenza dei brevetti, non è opportuno usare la licenza pubblica di softwar
 
 ## Copyleft nei dati @fa[arrow-right] nel software?
 
-Non esiste un vero "copyleft"
+Non esiste un vero "copyleft" per i database rights, a causa dei limitati diritti di esclusiva conferiti (riutilizzo, estrazione)
 <ul>
 <li class="fragment">Non esiste una vera e propria opera derivata</li>
 <li class="fragment">What if licenza dati "Share alike?" (es CC-BY-SA)</li>
