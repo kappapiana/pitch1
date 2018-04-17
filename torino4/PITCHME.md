@@ -46,7 +46,7 @@ Non esiste un vero "copyleft" per i database rights, a causa dei limitati diritt
   <ul>
     <li class="fragment">caso 1: dataset esteso @fa[arrow-right] licenza compatibile</li>
     <li class="fragment">caso 2: dataset correlato @fa[arrow-right] non opera derivata</li>
-    <li class="fragment">caso 3: dataset inserito in software @fa[arrow-right] database rights vs. copyright <span class="fragment">@fa[arrow-right] nessuna licenza</span> </li>
+    <li class="fragment">caso 3: dataset inserito in software @fa[arrow-right] database rights vs. copyright <span class="fragment">@fa[arrow-right] <strong>nessuna licenza</strong></span> </li>
   </ul>
 </ul>
 
@@ -54,11 +54,76 @@ Non esiste un vero "copyleft" per i database rights, a causa dei limitati diritt
 
 ---
 
+## Altri casi in cui dati e software interagiscono
+
+- API
+- Cloud
+
+---
+
 ## Trade secrets
+
+Fonti:
+
+* Art. 98-99 Codice della Proprietà industriale
+* TRIPS (WTO)
+
+Presupposti:
+
+* Valore industriale
+* Attivamente protetti
+    - Logicamente
+    - Fisicamente
+    - Giuridicamente
+
+---
+
+## Licenze pubbliche di segreti?
+
+Assurdo ("once the bell has been rung, it can't be un-rung")
+
+Necessario un **Regime** di circolazione riservato. Possibile ad esempio con:
+
+* **Crittografia** (solo alcuni hanno logicamente accesso)
+* **Accesso riservato** (solo alcuni hanno "fisicamente" accesso)
+* **NDA**, Non Disclosure Agreement (le informazioni _debbono_ rimanere riservate)
+
+---
+
+## Un caso particolare di segreti: la Crittografia
+
+La crittografia si basa su:
+
+- Qualcosa che solo qualcuno è (es.: biometria)
+- Qualcosa che solo qualcuno ha, possiede fisicamente (dispositivi, chiavi fisiche)
+- Qualcosa che solo qualcuno sa, possiede logicamente (informazioni **segrete**, come una chiave privata di crittografia)
+
+---
+
+## Il caso DeCSS
+
+<https://it.wikipedia.org/wiki/DeCSS>
+
+DVD Jon pubblica un programma che contiene le chiavi di crittografia utilizzate nella protezione dei DVD (CSS), il DeCSS.
+
+Viola pertanto anche un dispositivo di protezione tecnologica (DRM) dei contenuti. Tuttavia il caso è molto controverso, perché si basa su un segreto che non è più segreto.
 
 ---
 
 ## DRM
+
+Protezioni penali su presupposti diversi
+- Nel software: Art. 171-bis LDA (da Direttiva Software)
+    - Solo per dispositivi il cui **unico scopo** è rimuovere o eludere le protezioni
+- Nei contenuti: Art 171-ter LDA (da Direttiva Enforcement)
+    - Qualsiasi dispositivo che abbia come effetto quello di rimuovere o eludere le protezioni.
+
+---
+
+## Il caso TiVo e la clausola "anti Tivoizzazione"
+
+
+
 
 
 ---
