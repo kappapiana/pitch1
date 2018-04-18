@@ -117,12 +117,12 @@ AKA, legal constraints
 - Independently from possibly existing copyright of the author or their heirs, or the expiration of it.
 - Condition: must be kept by a public body (the same, if held by a private cultural institution it would be untouched)
 - Free only for non-commercial uses
+
 ---
 
 # What lies ahead
 
-
---
+---
 
 <div class="bottom">
 @fa[copyright fa-red] 2018 - Carlo Piana, Giaime Ginesu (some rights reserved)   
