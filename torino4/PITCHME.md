@@ -77,9 +77,9 @@ Presupposti:
 
 * Valore economico
 * Attivamente protetti
-    - Logicamente
-    - Fisicamente
-    - Giuridicamente
+    - **Crittografia** (solo alcuni hanno logicamente accesso)
+    - **Accesso riservato** (solo alcuni hanno "fisicamente" accesso)
+    - **NDA**, Non Disclosure Agreement (le informazioni _debbono_ rimanere riservate)
 
 +++
 
@@ -108,18 +108,6 @@ Samba, attraverso la Protocol Freedom Information Foundation è diventata licenz
 Dopo poco Microsoft ha reso completamente pubbliche le stesse informazioni ed emesso la "Open Specification Promise", andando al di là di quanto era stata richiesta
 
 <https://msdn.microsoft.com/en-us/openspecifications/dn646765.aspx>
-
----
-
-## Licenze pubbliche di segreti?
-
-Assurdo ("_once the bell has been rung, it can't be un-rung_")
-
-Necessario un **Regime** di circolazione riservato. Possibile ad esempio con:
-
-* **Crittografia** (solo alcuni hanno logicamente accesso)
-* **Accesso riservato** (solo alcuni hanno "fisicamente" accesso)
-* **NDA**, Non Disclosure Agreement (le informazioni _debbono_ rimanere riservate)
 
 ---
 
@@ -168,8 +156,6 @@ Protezioni penali su presupposti diversi
 La GPL v.3 ha introdotto una clausola apposita per evitare la Tivoizzazione.
 
 Non solo deve essere fornito il codice completo necessario a compilare una versione alternativa del codice oggetto, devono essere fornite **complete informazioni di installazione** tra cui appunto eventuali chiavi di crittografia con cui il codice deve essere firmato, in un formato pubblicamente disponibile. (GPL v.3, section 6)
-
-
 
 
 ---
