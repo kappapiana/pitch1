@@ -77,6 +77,6 @@ Tipi di atteggiamento:
 
 ## per approfondimenti:  
 
-- http://www.techeconomy.it/2016/10/11/brevetti-e-software-per-chi-suona-la-campana/ "Brevetti e software: per chi suona la campana?"
-- http://www.techeconomy.it/2016/02/10/standard-open-standard-diavolo-si-annida-nei-dettagli/ "Standard e open standard, il  diavolo si annida nei dettagli"
-- Open standard e brevetti http://www.techeconomy.it/2016/03/10/open-standard-brevetti/ "Open standard e brevetti"
+- Brevetti e software: per chi suona la campana? http://www.techeconomy.it/2016/10/11/brevetti-e-software-per-chi-suona-la-campana/
+- "Standard e open standard, il  diavolo si annida nei dettagli" http://www.techeconomy.it/2016/02/10/standard-open-standard-diavolo-si-annida-nei-dettagli/
+- Open standard e brevetti http://www.techeconomy.it/2016/03/10/open-standard-brevetti/
