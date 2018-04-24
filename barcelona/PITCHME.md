@@ -28,8 +28,8 @@ Carlo Piana    |  Giaime Ginesu
 ## Content
 
 * Legal framework |
-* technical framework |
-* challenges |
+* Technical framework |
+* Challenges |
 
 ---
 
@@ -92,32 +92,21 @@ _Linee guida regionali_ (Regional Guidelines) [[ITA (PDF)][1c94ddee]]
 ## Inbound data providers
 
 AKA, legal constraints
-
-<<<<<<< HEAD
 * Datasets in part belong to other bodies or private companies
 * Mostly CC-BY, some proprietary
 * Pictures, the license of which are uncertain; other content
 * Pseudo-copyright (?!)
-=======
-* Mostly CC-BY, some proprietary
-* Pictures, the license of which are uncertain
->>>>>>> 3e4c679d67c8f7f239a30c7ad9239b11a3f02053
+
+
 
 +++
 
 ## Data Protection
 
-<<<<<<< HEAD
-- Open data by default, but not for **personal data**
-- Conflates  license and data protection
-    - In line with WP29 position
-    - quite absurd</span>
-=======
 - Open data by default, but not for personal data
 - Conflates  license and data protection
     - In line with WP29 position
     - quite absurd
->>>>>>> 3e4c679d67c8f7f239a30c7ad9239b11a3f02053
 
 +++
 
@@ -128,10 +117,6 @@ AKA, legal constraints
 - Independently from possibly existing copyright of the author or their heirs, or the expiration of it.
 - Condition: must be kept by a public body (the same, if held by a private cultural institution it would be untouched)
 - Free only for non-commercial uses
-
-- Art. 107-108 of the Italian Heritage Good Code (Codice dei beni culturali)
-- Duty of care in giving heritage goods for physical copies (preservation of the object) becomes (by interpretation) pseudo-copyright on those who take Pictures
-- Including a SKULL (!)
 
 ---
 
