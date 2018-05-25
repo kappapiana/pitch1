@@ -11,7 +11,7 @@ Carlo Piana      Giaime Ginesu
 
 ---?image=/assets/barcelona/projects.png&position=top 20px center&size=600px
 
-## Consulting team:
+## Consulting team!:
 
 * Carlo Piana
 * Giovanni Battista Gallus
