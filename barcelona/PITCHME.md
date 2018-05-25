@@ -18,8 +18,6 @@ Carlo Piana      Giaime Ginesu
 * Francesco Paolo Micozzi
 
 ---
-  <!-- .slide: data-background-image="./assets/md/assets/projects.png" data-background-size="600px" data-background-color=" " data-background-position="top 20px center" -->
-
 
 ## Sardinia (Sardegna) an autonomous and gorgeous region
 
