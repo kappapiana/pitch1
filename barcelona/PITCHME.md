@@ -2,10 +2,10 @@
 
 ## Challenges and tools in publishing open data
 
-Carlo Piana    |  Giaime Ginesu
---|--
-**Array** studio legale  |  Regione Autonoma Sardegna
-  https://array.eu   |  http://www.regione.sardegna.it/
+Carlo Piana      Giaime Ginesu
+----
+**Array** studio legale    Regione Autonoma Sardegna
+  https://array.eu     http://www.regione.sardegna.it/
 
 #### (Chatham House Rule Waived)
 
@@ -27,9 +27,9 @@ Carlo Piana    |  Giaime Ginesu
 
 ## Content
 
-* Legal framework |
-* Technical framework |
-* Challenges |
+* Legal framework
+* Technical framework
+* Challenges
 
 ---
 
@@ -113,7 +113,8 @@ AKA, legal constraints
 ## Pseudo copyright (?!)
 
 - Art. 107-108 of the Italian Heritage Goods Code (Codice dei beni culturali)
-- A duty of care permitting copies of heritage goods (preservation of the object) becomes (by interpretation) a pseudo-copyright on those who take pictures, including of a <span class="fragment"> **SKULL** (yes, Supreme Court has said so...)</span>
+- A duty of care permitting copies of heritage goods (preservation of the object) becomes (by interpretation) a pseudo-copyright on those who take pictures, including of a **SKULL** (yes, Supreme Court has said so...)
+
 - Independently from possibly existing copyright of the author or their heirs, or the expiration of it.
 - Condition: must be kept by a public body (the same, if held by a private cultural institution it would be untouched)
 - Free only for non-commercial uses
